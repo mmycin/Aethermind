@@ -1,0 +1,6 @@
+{
+  "dependencies": { "ts-protoc-gen": "^0.15.0" },
+  "devDependencies": {
+    "ts-proto": "^2.8.3"
+  }
+}
