@@ -1,898 +1,898 @@
 Name,Age,Gender,Zone_of_Residence,Reason_of_low_attention_span,Screentime_mins,Attention_span_mins
-Abrar,17,M,Motijheel,Lack of Sleep & Poor Health,120–240,3–5
-Kanchon,16,M,Mohammadpur,Lack of Sleep & Poor Health,120–240,15–30
-Shafi,17,M,Tejgaon,Lack of Sleep & Poor Health,120–240,30–60
-Zunyaed,18,M,Farmgate,Stress & Anxiety,30–120,1–2
-Jabeer,17,M,Shahbagh,Family Problems,120–240,30–60
-Naushad,17,M,Jigatola,Multitasking,120–240,1–2
-Kausar,18,M,Dhanmondi,Smartphones & Social Media,30–120,3–5
-Tahmid,17,M,Ramna,Family Problems,120–240,15–30
-Tawhid,17,M,Bashabo,Lack of Goal Clarity,240–360,1–2
-Tawsif,16,M,Khilgaon,Smartphones & Social Media,30–120,5–15
-Meraz,17,M,Bailey Road,Lack of Sleep & Poor Health,120–240,30–60
-Sahul,18,M,Malibagh,Smartphones & Social Media,30–120,1–2
-Shoaib,19,M,Siddheshwari,Stress & Anxiety,120–240,15–30
-Marif,17,M,Secretariat,Lack of Sleep & Poor Health,120–240,30–60
-Rayhan,18,M,Gulistan,Smartphones & Social Media,120–240,3–5
-Arif,17,M,Jatrabari,Relationship,480–600,1–2
-Faiz,18,M,Wari,Multitasking,240–360,15–30
-Rayan,17,M,Motijheel,Smartphones & Social Media,30–120,30–60
-Nayeem,18,M,Tejgaon,Multitasking,360–480,15–30
-Arafat,17,M,Farmgate,Smartphones & Social Media,120–240,1–2
-Ehsan,18,M,Mohammadpur,Smartphones & Social Media,120–240,1–2
-Samir,17,M,Shahbagh,Lack of Sleep & Poor Health,30–120,30–60
-Tanveer,17,M,Motijheel,Relationship,30–120,5–15
-Mahir,17,M,Tejgaon,Multitasking,240–360,15–30
-Iqbal,17,M,Farmgate,Stress & Anxiety,360–480,30–60
-Anwar,18,M,Mohammadpur,Multitasking,360–480,1–2
-Nasir,17,M,Shahbagh,Stress & Anxiety,120–240,15–30
-Habib,18,M,Motijheel,Multitasking,30–120,1–2
-Farhan,18,M,Tejgaon,Stress & Anxiety,240–360,30–60
-Ayaan,18,M,Farmgate,Family Problems,120–240,1–2
-Rafi,17,M,Mohammadpur,Lack of Goal Clarity,30–120,15–30
-Shuvro,16,M,Shahbagh,Stress & Anxiety,30–120,1–2
-Armaan,19,M,Motijheel,Stress & Anxiety,600+,30–60
-Zayan,17,M,Tejgaon,Stress & Anxiety,120–240,15–30
-Mikael,16,M,Farmgate,Multitasking,30–120,3–5
-Rayyan,14,M,Mohammadpur,Lack of Sleep & Poor Health,120–240,15–30
-Shamin,14,M,Shahbagh,Family Problems,30–120,1–2
-Talha,13,M,Motijheel,Smartphones & Social Media,600+,30–60
-Shaheen,14,M,Tejgaon,Lack of Goal Clarity,120–240,15–30
-Ishtiaq,13,M,Farmgate,Family Problems,480–600,5–15
-Faiyaz,15,M,Mohammadpur,Smartphones & Social Media,120–240,1–2
-Adnan,16,M,Shahbagh,Stress & Anxiety,120–240,1–2
-Firoz,15,M,Jigatola,Lack of Sleep & Poor Health,30–120,30–60
-Saad,16,M,Dhanmondi,Smartphones & Social Media,120–240,3–5
-Ariful,13,M,Ramna,Multitasking,240–360,30–60
-Sajid,15,m,Bashabo,Multitasking,30–120,15–30
-Reza,17,m,Khilgaon,Smartphones & Social Media,480–600,1–2
-Shams,17,m,Bailey Road,Smartphones & Social Media,120–240,15–30
-Tamim,18,m,Malibagh,Lack of Goal Clarity,240–360,30–60
-Fardin,19,m,Siddheshwari,Lack of Goal Clarity,360–480,5–15
-Sarfaraz,21,m,Secretariat,Stress & Anxiety,30–120,1–2
-Ahsan,22,m,Gulistan,Smartphones & Social Media,120–240,15–30
-Emon,17,m,Jatrabari,Lack of Sleep & Poor Health,30–120,30–60
-Moin,15,m,Wari,Family Problems,120–240,1–2
-Mahbub,13,m,Motijheel,Smartphones & Social Media,120–240,1–2
-Shuvo,13,m,Tejgaon,Smartphones & Social Media,360–480,30–60
-Tanim,15,m,Farmgate,Smartphones & Social Media,600+,15–30
-Rashed,17,m,Mohammadpur,Lack of Goal Clarity,120–240,30–60
-Iftekhar,16,m,Shahbagh,Stress & Anxiety,120–240,3–5
-Parvez,18,m,Motijheel,Relationship,30–120,1–2
-Ashik,18,m,Tejgaon,Relationship,30–120,15–30
-Nabil,16,m,Farmgate,Lack of Sleep & Poor Health,240–360,30–60
-Danish,19,m,Mohammadpur,Family Problems,120–240,15–30
-Ayman,22,m,Shahbagh,Relationship,120–240,1–2
-Sharif,22,m,Motijheel,Stress & Anxiety,120–240,30–60
-Faique,25,m,Tejgaon,Lack of Goal Clarity,120–240,5–15
-Shajid,28,m,Farmgate,Smartphones & Social Media,30–120,15–30
-Khalid,16,m,Mohammadpur,Lack of Sleep & Poor Health,30–120,1–2
-Amir,16,m,Shahbagh,Multitasking,120–240,3–5
-Asif,17,m,Motijheel,Lack of Goal Clarity,360–480,30–60
-Sumon,16,m,Tejgaon,Family Problems,120–240,1–2
-Ridwan,18,m,Farmgate,Lack of Sleep & Poor Health,120–240,15–30
-Rifat,17,m,Mohammadpur,Multitasking,30–120,30–60
-Jisan,18,m,Shahbagh,Family Problems,480–600,1–2
-Mahi,18,m,Jigatola,Lack of Sleep & Poor Health,120–240,15–30
-Afnan,16,m,Dhanmondi,Relationship,360–480,30–60
-Shajal,15,m,Ramna,Multitasking,30–120,3–5
-Ilyas,13,m,Bashabo,Smartphones & Social Media,600+,15–30
-Nafis,13,m,Khilgaon,Lack of Sleep & Poor Health,360–480,1–2
-Rakin,12,m,Bailey Road,Smartphones & Social Media,240–360,30–60
-Marzuq,13,m,Malibagh,Lack of Sleep & Poor Health,30–120,1–2
-Feroz,12,m,Siddheshwari,Smartphones & Social Media,120–240,5–15
-Anis,13,m,Secretariat,Lack of Sleep & Poor Health,120–240,30–60
-Zubair,13,m,Gulistan,Multitasking,30–120,15–30
-Azim,16,m,Jatrabari,Multitasking,30–120,1–2
-Mahfuz,17,m,Wari,Multitasking,30–120,3–5
-Tasnim,16,m,Motijheel,Stress & Anxiety,30–120,30–60
-Arham,18,m,Tejgaon,Relationship,120–240,1–2
-Imran,16,m,Farmgate,Family Problems,120–240,15–30
-Sami,17,m,Mohammadpur,Family Problems,360–480,1–2
-Rayad,18,m,Shahbagh,Smartphones & Social Media,360–480,30–60
-Zayan,18,m,Motijheel,Lack of Sleep & Poor Health,30–120,5–15
-Saif,18,m,Tejgaon,Multitasking,120–240,1–2
-Mahin,17,m,Farmgate,Lack of Sleep & Poor Health,120–240,15–30
-Tanvir,17,m,Mohammadpur,Relationship,240–360,30–60
-Najib,17,m,Shahbagh,Multitasking,30–120,1–2
-Naim,17,m,Motijheel,Smartphones & Social Media,120–240,30–60
-Faruq,18,m,Tejgaon,Smartphones & Social Media,30–120,15–30
-Shahin,15,m,Farmgate,Smartphones & Social Media,30–120,3–5
-Shahnawaz,14,m,Mohammadpur,Smartphones & Social Media,600+,1–2
-Abrish,13,m,Shahbagh,Lack of Sleep & Poor Health,240–360,15–30
-Momin,14,m,Motijheel,Lack of Sleep & Poor Health,30–120,30–60
-Araf,15,m,Tejgaon,Stress & Anxiety,360–480,1–2
-Qais,18,m,Farmgate,Relationship,30–120,5–15
-Sarif,17,m,Mohammadpur,Smartphones & Social Media,120–240,30–60
-Zihad,15,m,Shahbagh,Smartphones & Social Media,120–240,15–30
-Mehedi,14,m,Jigatola,Stress & Anxiety,240–360,1–2
-Ariz,15,m,Dhanmondi,Lack of Sleep & Poor Health,600+,15–30
-Feroz,14,m,Ramna,Smartphones & Social Media,120–240,30–60
-Noman,18,m,Bashabo,Multitasking,30–120,1–2
-Azfar,19,m,Khilgaon,Stress & Anxiety,120–240,30–60
-Samiul,17,m,Bailey Road,Lack of Sleep & Poor Health,30–120,5–15
-Ahsin,17,m,Malibagh,Lack of Sleep & Poor Health,30–120,15–30
-Jahid,27,m,Siddheshwari,Lack of Sleep & Poor Health,30–120,1–2
-Tauhid,28,m,Secretariat,Relationship,30–120,15–30
-Shadman,16,m,Gulistan,Smartphones & Social Media,480–600,30–60
-Anwarul,17,m,Jatrabari,Smartphones & Social Media,240–360,3–5
-Sabir,24,m,Wari,Smartphones & Social Media,360–480,15–30
-Rumeel,25,m,Motijheel,Multitasking,30–120,1–2
-Junaid,29,m,Tejgaon,Stress & Anxiety,240–360,30–60
-Ijaz,34,m,Farmgate,Multitasking,30–120,5–15
-Talib,21,m,Mohammadpur,Lack of Sleep & Poor Health,30–120,1–2
-Khalil,21,m,Shahbagh,Lack of Sleep & Poor Health,600+,30–60
-Arafi,25,m,Motijheel,Smartphones & Social Media,600+,15–30
-Zahir,27,m,Tejgaon,Smartphones & Social Media,120–240,1–2
-Mahmud,23,m,Farmgate,Smartphones & Social Media,120–240,1–2
-Rizwan,24,m,Mohammadpur,Smartphones & Social Media,120–240,15–30
-Fahim,29,m,Shahbagh,Stress & Anxiety,30–120,30–60
-Samad,43,m,Motijheel,Lack of Sleep & Poor Health,30–120,5–15
-Arfan,26,m,Tejgaon,Relationship,120–240,1–2
-Nayeemul,29,m,Farmgate,Stress & Anxiety,360–480,15–30
-Shadid,16,m,Mohammadpur,Smartphones & Social Media,30–120,30–60
-Ismail,17,m,Shahbagh,Lack of Sleep & Poor Health,240–360,1–2
-Amin,12,m,Motijheel,Smartphones & Social Media,30–120,30–60
-Rameez,12,m,Tejgaon,Stress & Anxiety,30–120,15–30
-Saiful,13,m,Farmgate,Family Problems,30–120,1–2
-Faiyazul,14,m,Mohammadpur,Family Problems,30–120,15–30
-Ridwanul,44,m,Shahbagh,Smartphones & Social Media,240–360,30–60
-Mariam,37,f,Jigatola,Family Problems,120–240,1–2
-Sumaiya,17,f,Dhanmondi,Multitasking,120–240,1–2
-Afsana,16,f,Ramna,Lack of Sleep & Poor Health,360–480,15–30
-Nusrat,17,f,Bashabo,Lack of Sleep & Poor Health,360–480,30–60
-Farzana,47,f,Khilgaon,Family Problems,30–120,5–15
-Rukaiya,39,f,Bailey Road,Lack of Sleep & Poor Health,480–600,3–5
-Sohana,17,f,Malibagh,Family Problems,30–120,15–30
-Nabila,15,f,Siddheshwari,Lack of Goal Clarity,600+,1–2
-Jannat,18,f,Secretariat,Relationship,120–240,30–60
-Fariha,19,f,Gulistan,Smartphones & Social Media,120–240,15–30
-Ayesha,19,f,Jatrabari,Lack of Goal Clarity,480–600,1–2
-Sabina,17,f,Wari,Stress & Anxiety,240–360,30–60
-Shabana,17,f,Motijheel,Smartphones & Social Media,120–240,1–2
-Tasnim,33,f,Tejgaon,Lack of Goal Clarity,30–120,15–30
-Mahjabeen,15,f,Farmgate,Relationship,30–120,30–60
-Rina,18,f,Mohammadpur,Multitasking,240–360,5–15
-Anika,16,f,Shahbagh,Stress & Anxiety,30–120,15–30
-Ifrah,16,f,Motijheel,Lack of Goal Clarity,30–120,30–60
-Lamiya,17,f,Tejgaon,Smartphones & Social Media,120–240,1–2
-Samira,16,f,Farmgate,Stress & Anxiety,120–240,1–2
-Shumaiya,16,f,Mohammadpur,Stress & Anxiety,120–240,15–30
-Faria,17,f,Shahbagh,Smartphones & Social Media,30–120,30–60
-Nazia,18,f,Motijheel,Stress & Anxiety,30–120,3–5
-Mahinur,19,f,Tejgaon,Relationship,30–120,30–60
-Arfa,15,f,Farmgate,Lack of Sleep & Poor Health,120–240,15–30
-Sadiya,17,f,Mohammadpur,Multitasking,30–120,1–2
-Shaila,17,f,Shahbagh,Lack of Goal Clarity,600+,15–30
-Rumana,15,f,Jigatola,Smartphones & Social Media,30–120,30–60
-Tahmina,16,f,Dhanmondi,Family Problems,120–240,5–15
-Nayeema,17,f,Ramna,Family Problems,30–120,1–2
-Aysha,18,f,Bashabo,Relationship,30–120,15–30
-Sultana,19,f,Khilgaon,Stress & Anxiety,30–120,30–60
-Minara,24,f,Bailey Road,Smartphones & Social Media,30–120,1–2
-Aarvi,16,f,Malibagh,Multitasking,30–120,15–30
-Anaya,19,f,Siddheshwari,Smartphones & Social Media,120–240,30–60
-Ira,24,f,Secretariat,Family Problems,30–120,3–5
-Diya,22,f,Gulistan,Stress & Anxiety,30–120,15–30
-Mahi,22,f,Jatrabari,Lack of Sleep & Poor Health,240–360,30–60
-Tisha,26,f,Wari,Lack of Goal Clarity,240–360,1–2
-Zara,32,f,Motijheel,Stress & Anxiety,600+,1–2
-Niva,16,f,Tejgaon,Multitasking,30–120,15–30
-Myra,17,f,Farmgate,Stress & Anxiety,120–240,30–60
-Sia,16,f,Mohammadpur,Family Problems,120–240,3–5
-Anvi,15,f,Shahbagh,Smartphones & Social Media,240–360,30–60
-Esha,18,f,Motijheel,Multitasking,360–480,15–30
-Rhea,18,f,Tejgaon,Stress & Anxiety,30–120,1–2
-Leya,16,f,Farmgate,Multitasking,120–240,15–30
-Tara,19,f,Mohammadpur,Lack of Goal Clarity,120–240,30–60
-Niyati,17,f,Shahbagh,Relationship,120–240,1–2
-Inaaya,16,f,Motijheel,Family Problems,240–360,30–60
-Kiara,17,f,Tejgaon,Smartphones & Social Media,360–480,15–30
-Samaira,19,f,Farmgate,Lack of Sleep & Poor Health,30–120,5–15
-Aahana,23,f,Mohammadpur,Stress & Anxiety,120–240,1–2
-Riva,23,f,Shahbagh,Smartphones & Social Media,30–120,15–30
-Ina,22,f,Jigatola,Smartphones & Social Media,30–120,30–60
-Avni,22,f,Dhanmondi,Stress & Anxiety,600+,1–2
-Meera,22,f,Ramna,Relationship,120–240,30–60
-Aarohi,22,f,Bashabo,Smartphones & Social Media,600+,15–30
-Tanshi,21,f,Khilgaon,Smartphones & Social Media,120–240,5–15
-Saanvi,14,f,Bailey Road,Smartphones & Social Media,120–240,15–30
-Ayesha,25,f,Malibagh,Lack of Sleep & Poor Health,120–240,30–60
-Ritika,25,f,Siddheshwari,Stress & Anxiety,120–240,1–2
-Ishita,24,f,Secretariat,Lack of Sleep & Poor Health,120–240,30–60
-Anika,24,f,Gulistan,Lack of Sleep & Poor Health,240–360,15–30
-Pari,24,f,Jatrabari,Smartphones & Social Media,30–120,1–2
-Zoya,24,f,Wari,Family Problems,120–240,15–30
-Suhana,24,f,Motijheel,Stress & Anxiety,120–240,30–60
-Reva,24,f,Tejgaon,Multitasking,360–480,3–5
-Alisha,24,f,Farmgate,Lack of Goal Clarity,240–360,15–30
-Tanvi,26,f,Mohammadpur,Multitasking,240–360,30–60
-Naira,27,f,Shahbagh,Lack of Sleep & Poor Health,30–120,1–2
-Ridhima,24,f,Motijheel,Relationship,120–240,15–30
-Arnav,22,f,Tejgaon,Relationship,30–120,30–60
-Vihaan,25,f,Farmgate,Lack of Goal Clarity,30–120,5–15
-Darsh,22,f,Mohammadpur,Family Problems,120–240,1–2
-Ronav,25,m,Shahbagh,Smartphones & Social Media,360–480,5–15
-Nishith,25,f,Motijheel,Multitasking,30–120,15–30
-Shaurya,27,m,Tejgaon,Relationship,480–600,30–60
-Rishabh,28,m,Farmgate,Family Problems,120–240,1–2
-Kabir,44,m,Mohammadpur,Family Problems,120–240,1–2
-Devansh,24,m,Shahbagh,Smartphones & Social Media,120–240,15–30
-Aryan,21,m,Jigatola,Smartphones & Social Media,30–120,30–60
-Aditya,22,m,Dhanmondi,Lack of Goal Clarity,30–120,3–5
-Neil,25,m,Ramna,Multitasking,120–240,30–60
-Nathan,26,m,Bashabo,Multitasking,30–120,15–30
-Aarush,29,m,Khilgaon,Lack of Goal Clarity,120–240,1–2
-Anay,14,m,Bailey Road,Smartphones & Social Media,360–480,30–60
-Raghav,12,m,Malibagh,Smartphones & Social Media,240–360,15–30
-Soham,13,m,Siddheshwari,Lack of Sleep & Poor Health,30–120,1–2
-Riddhi,12,f,Secretariat,Multitasking,240–360,15–30
-Arifin,19,m,Gulistan,Lack of Sleep & Poor Health,30–120,30–60
-Feroz,55,m,Jatrabari,Stress & Anxiety,600+,3–5
-Partha,51,m,Wari,Lack of Sleep & Poor Health,30–120,15–30
-Abir,22,m,Motijheel,Multitasking,360–480,30–60
-Joydeep,27,m,Tejgaon,Lack of Goal Clarity,30–120,1–2
-Sourav,32,m,Farmgate,Stress & Anxiety,120–240,15–30
-Arindam,27,m,Mohammadpur,Family Problems,120–240,30–60
-Debjit,37,m,Shahbagh,Smartphones & Social Media,120–240,5–15
-Ritvik,23,m,Motijheel,Lack of Goal Clarity,120–240,1–2
-Anish,26,m,Tejgaon,Stress & Anxiety,30–120,15–30
-Bibek,28,m,Farmgate,Stress & Anxiety,30–120,30–60
-Avik,17,m,Mohammadpur,Lack of Goal Clarity,30–120,1–2
-Arpan,18,m,Shahbagh,Lack of Sleep & Poor Health,240–360,30–60
-Ritoban,22,m,Motijheel,Stress & Anxiety,120–240,15–30
-Tanmay,23,m,Tejgaon,Family Problems,120–240,1–2
-Chinmoy,25,m,Farmgate,Multitasking,120–240,30–60
-Animesh,46,m,Mohammadpur,Stress & Anxiety,30–120,15–30
-Saheb,22,m,Shahbagh,Relationship,120–240,5–15
-Pranay,26,m,Jigatola,Smartphones & Social Media,30–120,15–30
-Subhajit,29,m,Dhanmondi,Stress & Anxiety,360–480,30–60
-Ananda,17,m,Jatrabari,Family Problems,30–120,1–2
-Koustav,17,m,Malibagh,Smartphones & Social Media,120–240,1–2
-Raktim,33,m,Dhanmondi,Smartphones & Social Media,30–120,15–30
-Soumik,44,m,Siddheshwari,Smartphones & Social Media,360–480,30–60
-Aviral,43,m,Wari,Multitasking,240–360,3–5
-Ishraq,37,m,Secretariat,Lack of Sleep & Poor Health,120–240,15–30
-Shazid,38,m,Ramna,Lack of Goal Clarity,120–240,30–60
-Aahil,33,m,Bailey Road,Multitasking,240–360,1–2
-Fahad,32,m,Bashabo,Relationship,30–120,30–60
-Arham,36,m,Khilgaon,Family Problems,120–240,15–30
-Mehedi,27,m,Gulistan,Family Problems,240–360,1–2
-Nazim,33,m,Jigatola,Lack of Sleep & Poor Health,30–120,30–60
-Shahbaz,46,m,Siddheshwari,Stress & Anxiety,120–240,5–15
-Junaid,44,m,Bailey Road,Stress & Anxiety,120–240,1–2
-Talha,47,m,Ramna,Relationship,120–240,15–30
-Zayan,15,m,Bashabo,Lack of Goal Clarity,120–240,30–60
-Afnan,17,m,Malibagh,Multitasking,120–240,1–2
-Ranit,16,m,Khilgaon,Lack of Sleep & Poor Health,30–120,15–30
-Deblina,18,f,Wari,Family Problems,360–480,30–60
-Sourish,19,m,Gulistan,Stress & Anxiety,360–480,3–5
-Arindita,17,f,Jigatola,Lack of Sleep & Poor Health,30–120,15–30
-Suvroop,12,m,Secretariat,Family Problems,120–240,1–2
-Prithwi,12,f,Dhanmondi,Smartphones & Social Media,120–240,30–60
-Tanisha,18,f,Jatrabari,Stress & Anxiety,120–240,1–2
-Arjit,19,m,Bailey Road,Family Problems,240–360,5–15
-Bishwajit,16,m,Malibagh,Lack of Sleep & Poor Health,30–120,30–60
-Sharmistha,18,f,Wari,Smartphones & Social Media,30–120,15–30
-Anvay,22,m,Bashabo,Relationship,30–120,1–2
-Manjari,23,m,Khilgaon,Lack of Sleep & Poor Health,120–240,3–5
-Rohini,27,f,Ramna,Smartphones & Social Media,240–360,30–60
-Biplob,28,m,Jigatola,Smartphones & Social Media,120–240,1–2
-Ishita,24,f,Dhanmondi,Relationship,120–240,15–30
-Anindya,25,f,Siddheshwari,Relationship,30–120,30–60
-Ritika,26,f,Gulistan,Smartphones & Social Media,120–240,1–2
-Ritam,22,f,Secretariat,Smartphones & Social Media,30–120,15–30
-Sayantika,21,f,Jatrabari,Relationship,30–120,30–60
-Sougata,22,f,Bailey Road,Stress & Anxiety,120–240,3–5
-Rishika,24,f,Bashabo,Lack of Goal Clarity,240–360,15–30
-Aritra,25,f,Khilgaon,Lack of Goal Clarity,30–120,1–2
-Priyanka,23,f,Malibagh,Stress & Anxiety,30–120,30–60
-Subhayan,22,f,Siddheshwari,Smartphones & Social Media,120–240,1–2
-Ruhul,21,m,Wari,Smartphones & Social Media,120–240,15–30
-Arpita,28,f,Dhanmondi,Relationship,30–120,30–60
-Rimon,33,m,Jigatola,Smartphones & Social Media,240–360,5–15
-Srishti,33,f,Gulistan,Relationship,240–360,1–2
-Samarth,37,m,Ramna,Stress & Anxiety,600+,15–30
-Debjani,36,m,Secretariat,Smartphones & Social Media,30–120,30–60
-Sohini,39,f,Jatrabari,Stress & Anxiety,30–120,1–2
-Bikram,31,m,Bailey Road,Smartphones & Social Media,360–480,30–60
-Trina,34,f,Malibagh,Smartphones & Social Media,480–600,15–30
-Indranil,37,f,Khilgaon,Lack of Sleep & Poor Health,120–240,3–5
-Shreya,32,f,Siddheshwari,Smartphones & Social Media,240–360,1–2
-Sajidul,36,m,Bashabo,Multitasking,240–360,15–30
-Shamita,35,f,Wari,Lack of Sleep & Poor Health,30–120,30–60
-Ritoban,40,m,Jigatola,Multitasking,120–240,1–2
-Pritha,31,f,Dhanmondi,Relationship,120–240,5–15
-Raktim,31,m,Gulistan,Lack of Goal Clarity,120–240,30–60
-Manisha,43,f,Ramna,Lack of Goal Clarity,240–360,15–30
-Avik,17,m,Secretariat,Lack of Sleep & Poor Health,120–240,1–2
-Anwesha,17,f,Jatrabari,Smartphones & Social Media,30–120,15–30
-Shishir,16,f,Bailey Road,Stress & Anxiety,120–240,30–60
-Tithi,18,f,Malibagh,Smartphones & Social Media,120–240,1–2
-Debaditya,16,f,Bashabo,Stress & Anxiety,120–240,30–60
-Ananya,19,f,Khilgaon,Lack of Goal Clarity,120–240,5–15
-Rishav,17,m,Siddheshwari,Lack of Goal Clarity,120–240,15–30
-Sanchita,16,f,Wari,Family Problems,120–240,1–2
-Tanmay,17,m,Dhanmondi,Multitasking,30–120,15–30
-Rumana,16,f,Jigatola,Lack of Sleep & Poor Health,30–120,30–60
-Shovon,26,f,Gulistan,Relationship,30–120,3–5
-Kanak,24,f,Ramna,Relationship,30–120,15–30
-Ravik,22,f,Secretariat,Smartphones & Social Media,240–360,1–2
-Moumita,23,f,Jatrabari,Smartphones & Social Media,30–120,30–60
-Anirban,29,m,Bailey Road,Lack of Sleep & Poor Health,30–120,5–15
-Tuhina,15,f,Malibagh,Family Problems,30–120,1–2
-Riyaz,17,m,Bashabo,Lack of Sleep & Poor Health,30–120,30–60
-Shreyashi,19,f,Khilgaon,Multitasking,120–240,15–30
-Jishnu,22,f,Siddheshwari,Lack of Sleep & Poor Health,360–480,1–2
-Arghya,23,f,Wari,Lack of Goal Clarity,120–240,1–2
-Nabid,55,m,Dhanmondi,Smartphones & Social Media,30–120,15–30
-Sayeda,43,f,Jigatola,Multitasking,30–120,30–60
-Rohan,34,m,Gulistan,Lack of Goal Clarity,120–240,5–15
-Pratik,14,m,Ramna,Lack of Sleep & Poor Health,120–240,1–2
-Subhra,16,f,Secretariat,Smartphones & Social Media,30–120,15–30
-Nishat,14,f,Jatrabari,Multitasking,240–360,30–60
-Rajib,19,m,Bailey Road,Family Problems,600+,1–2
-Mousumi,10,f,Malibagh,Stress & Anxiety,120–240,30–60
-Tanvirul,15,m,Bashabo,Family Problems,360–480,15–30
-Rishabh,10,m,Khilgaon,Stress & Anxiety,120–240,1–2
-Arin,17,m,Siddheshwari,Stress & Anxiety,30–120,15–30
-Shuvendu,21,m,Wari,Family Problems,30–120,30–60
-Debosmita,20,f,Dhanmondi,Family Problems,30–120,1–2
-Arun,21,m,Jigatola,Lack of Goal Clarity,120–240,1–2
-Shouvik,20,m,Gulistan,Smartphones & Social Media,240–360,15–30
-Rahim,17,m,Ramna,Smartphones & Social Media,120–240,30–60
-Piyal,16,m,Secretariat,Relationship,240–360,5–15
-Ratul,17,m,Jatrabari,Stress & Anxiety,30–120,3–5
-Ashik,18,m,Bailey Road,Relationship,30–120,15–30
-Parul,18,f,Malibagh,Multitasking,120–240,1–2
-Shuvra,19,f,Bashabo,Multitasking,360–480,30–60
-Anwita,16,f,Khilgaon,Lack of Sleep & Poor Health,30–120,15–30
-Rupayan,18,m,Siddheshwari,Lack of Sleep & Poor Health,360–480,1–2
-Ranjan,20,m,Wari,Relationship,360–480,30–60
-Saikat,20,m,Dhanmondi,Smartphones & Social Media,120–240,1–2
-Sristi,24,f,Jigatola,Multitasking,120–240,15–30
-Pranab,22,m,Gulistan,Lack of Goal Clarity,30–120,30–60
-Isha,23,f,Ramna,Lack of Sleep & Poor Health,30–120,5–15
-Debraj,27,m,Secretariat,Multitasking,240–360,15–30
-Shovonika,29,f,Jatrabari,Relationship,600+,30–60
-Ritam,25,m,Bailey Road,Lack of Sleep & Poor Health,120–240,1–2
-Arif,34,m,Malibagh,Multitasking,120–240,1–2
-Anik,21,m,Bashabo,Multitasking,30–120,15–30
-Ashfaq,22,m,Khilgaon,Stress & Anxiety,120–240,30–60
-Atif,21,m,Siddheshwari,Smartphones & Social Media,30–120,3–5
-Bikash,19,m,Wari,Lack of Sleep & Poor Health,360–480,30–60
-Chayan,23,m,Dhanmondi,Smartphones & Social Media,120–240,15–30
-Debashis,27,m,Jigatola,Relationship,30–120,1–2
-Dipankar,24,m,Gulistan,Smartphones & Social Media,360–480,15–30
-Ehsan,29,m,Ramna,Lack of Sleep & Poor Health,30–120,30–60
-Fahim,24,m,Secretariat,Smartphones & Social Media,360–480,5–15
-Farhad,24,m,Jatrabari,Lack of Sleep & Poor Health,240–360,1–2
-Gias,222,m,Bailey Road,Lack of Sleep & Poor Health,120–240,15–30
-Habibur,21,m,Malibagh,Lack of Goal Clarity,120–240,30–60
-Himel,22,m,Bashabo,Lack of Sleep & Poor Health,120–240,1–2
-Imran,22,m,Khilgaon,Smartphones & Social Media,480–600,15–30
-Irfan,23,m,Siddheshwari,Relationship,30–120,30–60
-Jalal,23,m,Wari,Stress & Anxiety,240–360,3–5
-Kamal,23,m,Dhanmondi,Lack of Sleep & Poor Health,30–120,15–30
-Karim,23,m,Jigatola,Relationship,360–480,30–60
-Liton,27,m,Gulistan,Smartphones & Social Media,120–240,1–2
-Mahbub,28,m,Ramna,Lack of Sleep & Poor Health,120–240,1–2
-Mahfuz,28,m,Secretariat,Lack of Sleep & Poor Health,120–240,15–30
-Nayeem,22,m,Jatrabari,Lack of Goal Clarity,30–120,30–60
-Nazmul,21,m,Bailey Road,Smartphones & Social Media,240–360,3–5
-Nurul,23,m,Malibagh,Family Problems,360–480,30–60
-Pradip,25,m,Bashabo,Multitasking,480–600,15–30
-Rafiq,24,m,Khilgaon,Smartphones & Social Media,120–240,1–2
-Rakesh,27,m,Siddheshwari,Lack of Sleep & Poor Health,240–360,15–30
-Rashid,26,m,Wari,Smartphones & Social Media,30–120,30–60
-Rezaul,21,m,Dhanmondi,Stress & Anxiety,120–240,1–2
-Saif,22,m,Jigatola,Multitasking,360–480,30–60
-Sajid,26,m,Gulistan,Lack of Goal Clarity,240–360,15–30
-Samir,28,m,Ramna,Multitasking,120–240,5–15
-Sanjoy,29,m,Secretariat,Smartphones & Social Media,480–600,1–2
-Shaheen,24,m,Jatrabari,Smartphones & Social Media,120–240,15–30
-Shahid,33,m,Bailey Road,Stress & Anxiety,240–360,30–60
-Shahriar,34,m,Malibagh,Stress & Anxiety,360–480,1–2
-Shuvro,31,m,Bashabo,Lack of Sleep & Poor Health,360–480,30–60
-Suman,31,m,Khilgaon,Stress & Anxiety,240–360,15–30
-Tariq,30,m,Siddheshwari,Relationship,600+,5–15
-Tanvir,30,m,Wari,Smartphones & Social Media,360–480,15–30
-Tushar,32,m,Dhanmondi,Lack of Sleep & Poor Health,600+,30–60
-Yasin,21,m,Jigatola,Family Problems,120–240,1–2
-Zahid,21,m,Gulistan,Lack of Goal Clarity,120–240,30–60
-Zubair,37,m,Ramna,Stress & Anxiety,120–240,15–30
-Rupak,38,m,Secretariat,Lack of Goal Clarity,30–120,1–2
-Ritwick,36,m,Jatrabari,Stress & Anxiety,30–120,15–30
-Raimon,37,m,Bailey Road,Relationship,30–120,30–60
-Afsana,33,f,Malibagh,Smartphones & Social Media,480–600,3–5
-Anwesha,33,f,Bashabo,Smartphones & Social Media,120–240,15–30
-Arifa,32,f,Khilgaon,Relationship,30–120,30–60
-Basanti,32,f,Siddheshwari,Multitasking,30–120,1–2
-Bipasha,35,f,Wari,Smartphones & Social Media,120–240,15–30
-Chandana,34,f,Dhanmondi,Smartphones & Social Media,120–240,30–60
-Debika,35,f,Jigatola,Smartphones & Social Media,30–120,5–15
-Diya,39,f,Gulistan,Lack of Goal Clarity,120–240,1–2
-Farzana,40,f,Ramna,Lack of Sleep & Poor Health,120–240,15–30
-Faria,42,f,Secretariat,Smartphones & Social Media,30–120,30–60
-Gargi,44,f,Jatrabari,Stress & Anxiety,30–120,1–2
-Hasina,42,f,Bailey Road,Family Problems,480–600,30–60
-Hena,47,f,Malibagh,Stress & Anxiety,30–120,15–30
-Indira,48,f,Bashabo,Smartphones & Social Media,30–120,1–2
-Jannat,43,f,Khilgaon,Stress & Anxiety,120–240,30–60
-Koli,44,f,Siddheshwari,Smartphones & Social Media,30–120,15–30
-Lamia,44,f,Wari,Family Problems,30–120,5–15
-Mahjabeen,46,f,Dhanmondi,Lack of Sleep & Poor Health,120–240,15–30
-Maleka,48,f,Jigatola,Family Problems,600+,30–60
-Mita,44,f,Gulistan,Smartphones & Social Media,30–120,1–2
-Nazia,43,f,Ramna,Relationship,30–120,30–60
-Nila,48,f,Secretariat,Smartphones & Social Media,30–120,15–30
-Parveen,42,f,Jatrabari,Lack of Sleep & Poor Health,120–240,1–2
-Purnima,30,f,Bailey Road,Relationship,360–480,15–30
-Rina,31,f,Malibagh,Multitasking,120–240,30–60
-Rokeya,24,f,Bashabo,Smartphones & Social Media,120–240,5–15
-Rumki,22,f,Khilgaon,Smartphones & Social Media,240–360,3–5
-Sabiha,17,f,Siddheshwari,Multitasking,600+,15–30
-Sadia,18,f,Wari,Relationship,240–360,30–60
-Salma,17,f,Dhanmondi,Stress & Anxiety,30–120,1–2
-Sanjida,18,f,Jigatola,Smartphones & Social Media,120–240,30–60
-Shamima,16,f,Gulistan,Stress & Anxiety,360–480,15–30
-Shapla,17,f,Ramna,Multitasking,120–240,1–2
-Sharmila,28,f,Secretariat,Stress & Anxiety,30–120,30–60
-Shirin,23,f,Jatrabari,Stress & Anxiety,120–240,5–15
-Shoma,22,f,DHanmondi,Smartphones & Social Media,120–240,15–30
-Sonia,25,f,Dhanmondi,Stress & Anxiety,360–480,30–60
-Subarna,24,f,Ramna,Multitasking,120–240,1–2
-Sultana,22,f,Bashabo,Lack of Sleep & Poor Health,120–240,1–2
-Sumaiya,22,f,Khilgaon,Lack of Sleep & Poor Health,240–360,15–30
-Tania,28,f,Bailey Road,Smartphones & Social Media,120–240,30–60
-Taslima,28,f,Malibagh,Lack of Sleep & Poor Health,30–120,3–5
-Trisha,29,f,Siddheshwari,Lack of Goal Clarity,360–480,30–60
-Usha,17,f,Secretariat,Smartphones & Social Media,30–120,15–30
-Yasmin,15,f,Gulistan,Family Problems,600+,1–2
-Zakia,27,f,Jatrabari,Multitasking,480–600,15–30
-Zeenat,21,f,Wari,Lack of Sleep & Poor Health,30–120,30–60
-Rupsha,20,f,Motijheel,Multitasking,120–240,5–15
-Ritika,28,f,Tejgaon,Stress & Anxiety,120–240,1–2
-Minara,23,f,Farmgate,Stress & Anxiety,360–480,15–30
-Armaan,22,f,Mohammadpur,Stress & Anxiety,30–120,30–60
-Rayhan,21,m,Shahbagh,Relationship,30–120,1–2
-Tawsif,25,m,Motijheel,Smartphones & Social Media,240–360,15–30
-Shahin,29,m,Tejgaon,Stress & Anxiety,30–120,30–60
-Moinul,25,m,Farmgate,Stress & Anxiety,600+,3–5
-Tanmoy,16,m,Mohammadpur,Stress & Anxiety,120–240,15–30
-Rohit,31,m,Shahbagh,Family Problems,30–120,1–2
-Rayan,21,m,Motijheel,Multitasking,240–360,30–60
-Ayaan,27,m,Tejgaon,Lack of Goal Clarity,30–120,1–2
-Ishaan,31,m,Farmgate,Relationship,120–240,5–15
-Ansh,31,m,Mohammadpur,Lack of Sleep & Poor Health,360–480,30–60
-Kabir,37,m,Shahbagh,Lack of Sleep & Poor Health,30–120,15–30
-Devansh,34,m,Jigatola,Lack of Goal Clarity,30–120,1–2
-Shaurya,38,m,Dhanmondi,Lack of Sleep & Poor Health,360–480,3–5
-Rishabh,30,m,Ramna,Smartphones & Social Media,600+,30–60
-Vivaan,27,m,Bashabo,Stress & Anxiety,120–240,1–2
-Krish,23,m,Khilgaon,Multitasking,240–360,15–30
-Aryan,20,m,Bailey Road,Smartphones & Social Media,30–120,30–60
-Aditya,20,m,Malibagh,Relationship,360–480,1–2
-Neil,21,m,Siddheshwari,Stress & Anxiety,30–120,15–30
-Nathan,24,m,Secretariat,Multitasking,480–600,30–60
-Aarush,23,m,Gulistan,Smartphones & Social Media,120–240,3–5
-Abrar,18,m,Jatrabari,Lack of Goal Clarity,120–240,15–30
-Mahin,22,m,Wari,Smartphones & Social Media,120–240,1–2
-Sohana,25,f,Motijheel,Smartphones & Social Media,30–120,30–60
-Joydeep,19,m,Tejgaon,Relationship,30–120,1–2
-Adnan,21,m,Farmgate,Lack of Sleep & Poor Health,360–480,15–30
-Farzana,27,f,Mohammadpur,Smartphones & Social Media,240–360,30–60
-Tanjina,23,f,Shahbagh,Lack of Goal Clarity,240–360,5–15
-Koushik,20,m,Tejgaon,Smartphones & Social Media,360–480,1–2
-Tanvir,32,m,Motijheel,Lack of Sleep & Poor Health,120–240,15–30
-Moumita,24,f,Shahbagh,Smartphones & Social Media,120–240,30–60
-Ehsan,29,m,Jatrabari,Multitasking,120–240,1–2
-Rafi,26,m,Mohammadpur,Stress & Anxiety,30–120,30–60
-Tamanna,18,f,Farmgate,Lack of Sleep & Poor Health,30–120,15–30
-Hasan,33,m,Ramna,Smartphones & Social Media,360–480,3–5
-Rafiq,22,f,Motijheel,Lack of Sleep & Poor Health,480–600,1–2
-Nabila,28,f,Bailey Road,Family Problems,30–120,15–30
-Rupsha,19,f,Farmgate,Smartphones & Social Media,120–240,30–60
-Anindya,35,f,Shahbagh,Family Problems,240–360,1–2
-Mehedi,24,f,Khilgaon,Lack of Sleep & Poor Health,30–120,5–15
-Rituparna,20,f,Mohammadpur,Smartphones & Social Media,30–120,30–60
-Ashfaq,30,m,Tejgaon,Stress & Anxiety,240–360,15–30
-Ishita,27,f,Shahbagh,Family Problems,240–360,1–2
-Afsana,21,f,Wari,Multitasking,120–240,15–30
-Nazmul,23,m,Secretariat,Lack of Goal Clarity,240–360,30–60
-Nusrat,25,f,Motijheel,Lack of Sleep & Poor Health,120–240,1–2
-Sayeed,31,m,Malibagh,Lack of Goal Clarity,30–120,30–60
-Priyanka,28,f,Farmgate,Multitasking,120–240,5–15
-Rayan,19,m,Dhanmondi,Family Problems,30–120,15–30
-Neha,34,f,Motijheel,Family Problems,240–360,1–2
-Jishan,22,m,Gulistan,Smartphones & Social Media,120–240,15–30
-Saikat,20,m,Tejgaon,Multitasking,30–120,30–60
-Shreya,29,f,Bashabo,Relationship,120–240,3–5
-Rafiul,26,m,Farmgate,Lack of Goal Clarity,240–360,15–30
-Tania,33,f,Mohammadpur,Lack of Goal Clarity,240–360,1–2
-Farhad,23,m,Siddheshwari,Stress & Anxiety,30–120,30–60
-Lamiya,24,f,Tejgaon,Multitasking,120–240,5–15
-Soumik,18,m,Jigatola,Smartphones & Social Media,120–240,1–2
-Nila,35,f,Shahbagh,Stress & Anxiety,600+,30–60
-Rayhan,27,m,Mohammadpur,Lack of Sleep & Poor Health,30–120,15–30
-Ishrak,19,m,Motijheel,Stress & Anxiety,30–120,1–2
-Anika,28,f,Bailey Road,Multitasking,30–120,1–2
-Arpan,21,m,Farmgate,Lack of Sleep & Poor Health,600+,15–30
-Shuvo,25,m,Shahbagh,Smartphones & Social Media,120–240,30–60
-Faria,30,m,Tejgaon,Smartphones & Social Media,120–240,5–15
-Sharmin,24,f,Jatrabari,Lack of Goal Clarity,30–120,1–2
-Tuhina,26,f,Motijheel,Stress & Anxiety,240–360,15–30
-Tawsif,22,m,Mohammadpur,Lack of Sleep & Poor Health,240–360,30–60
-Oishee,23,f,Ramna,Multitasking,120–240,1–2
-Shahin,32,m,Farmgate,Stress & Anxiety,480–600,30–60
-Rifat,20,m,Shahbagh,Lack of Goal Clarity,360–480,15–30
-Mahjabeen,27,m,Motijheel,Multitasking,120–240,1–2
-Anurag,19,m,Tejgaon,Stress & Anxiety,120–240,15–30
-Fariha,31,f,Dhanmondi,Stress & Anxiety,120–240,30–60
-Rizwan,25,m,Malibagh,Stress & Anxiety,120–240,1–2
-Ananya,29,f,Farmgate,Stress & Anxiety,30–120,1–2
-Arham,22,m,Motijheel,Stress & Anxiety,120–240,15–30
-Rishita,33,f,Mohammadpur,Family Problems,240–360,30–60
-Shoaib,18,m,Khilgaon,Family Problems,120–240,5–15
-Sultana,24,f,Shahbagh,Multitasking,30–120,3–5
-Iqbal,26,m,Gulistan,Family Problems,120–240,15–30
-Trisha,19,f,Tejgaon,Multitasking,30–120,1–2
-Isha,30,f,Farmgate,Smartphones & Social Media,120–240,30–60
-Avik,21,m,Motijheel,Relationship,240–360,15–30
-Hasanuzzaman,23,f,Bashabo,Lack of Sleep & Poor Health,120–240,1–2
-Jannat,25,f,Mohammadpur,Stress & Anxiety,30–120,30–60
-Abir,27,m,Wari,Relationship,30–120,1–2
-Fardin,20,m,Shahbagh,Stress & Anxiety,30–120,15–30
-Rukhsar,34,m,Tejgaon,Smartphones & Social Media,30–120,30–60
-Subhajit,22,m,Farmgate,Relationship,30–120,5–15
-Niloy,29,m,Motijheel,Smartphones & Social Media,30–120,15–30
-Tuba,28,f,Bailey Road,Relationship,120–240,30–60
-Tahmid,19,m,Mohammadpur,Relationship,120–240,1–2
-Monir,24,m,Ramna,Relationship,240–360,1–2
-Rupam,26,m,Farmgate,Stress & Anxiety,30–120,15–30
-Ria,23,f,Shahbagh,Relationship,600+,30–60
-Ayman,21,m,Motijheel,Lack of Sleep & Poor Health,120–240,3–5
-Zaman,20,m,Tejgaon,Smartphones & Social Media,120–240,30–60
-Saima,27,f,Siddheshwari,Smartphones & Social Media,30–120,15–30
-Hridi,31,f,Mohammadpur,Lack of Goal Clarity,240–360,1–2
-Mahmud,25,m,Motijheel,Lack of Sleep & Poor Health,240–360,15–30
-Dipankar,33,m,Farmgate,Lack of Goal Clarity,30–120,30–60
-Mahira,19,f,Shahbagh,Stress & Anxiety,600+,5–15
-Tisha,28,f,Jigatola,Smartphones & Social Media,120–240,1–2
-Sohini,22,f,Tejgaon,Lack of Sleep & Poor Health,120–240,15–30
-Riaz,23,f,Mohammadpur,Stress & Anxiety,30–120,30–60
-Ayesha,30,f,Farmgate,Smartphones & Social Media,480–600,1–2
-Anika,24,f,Shahbagh,Relationship,30–120,15–30
-Rukeya,32,f,Motijheel,Stress & Anxiety,30–120,30–60
-Sumon,26,m,Tejgaon,Smartphones & Social Media,480–600,3–5
-Kanak,20,m,Bailey Road,Multitasking,120–240,15–30
-Alisha,29,f,Farmgate,Smartphones & Social Media,30–120,30–60
-Rajib,18,m,Motijheel,Multitasking,30–120,1–2
-Nafisa,27,f,Mohammadpur,Stress & Anxiety,120–240,1–2
-Tanisha,21,f,Shahbagh,Stress & Anxiety,240–360,15–30
-Sadiya,23,f,Ramna,Lack of Sleep & Poor Health,30–120,30–60
-Soham,25,f,Tejgaon,Lack of Sleep & Poor Health,30–120,3–5
-Rubel,19,m,Farmgate,Smartphones & Social Media,30–120,30–60
-Mou,24,f,Motijheel,Smartphones & Social Media,30–120,15–30
-Nishat,26,f,Mohammadpur,Stress & Anxiety,30–120,1–2
-Rifat,33,m,Wari,Smartphones & Social Media,240–360,15–30
-Mahinur,22,m,Shahbagh,Smartphones & Social Media,30–120,30–60
-Kabir,28,m,Motijheel,Lack of Goal Clarity,30–120,1–2
-Parvez,31,m,Farmgate,Multitasking,120–240,30–60
-Saad,20,m,Tejgaon,Lack of Sleep & Poor Health,240–360,15–30
-Rini,25,f,Mohammadpur,Stress & Anxiety,30–120,5–15
-Taslima,19,f,Bashabo,Smartphones & Social Media,120–240,1–2
-Shamim,27,m,Farmgate,Lack of Sleep & Poor Health,30–120,15–30
-Sakib,29,m,Motijheel,Lack of Goal Clarity,120–240,30–60
-Shama,24,f,Shahbagh,Stress & Anxiety,120–240,1–2
-Arindam,18,m,Tejgaon,Family Problems,120–240,30–60
-Shaila,23,f,Gulistan,Stress & Anxiety,240–360,15–30
-Nafees,21,m,Farmgate,Stress & Anxiety,120–240,5–15
-Manisha,22,f,Motijheel,Multitasking,240–360,15–30
-Fahim,30,m,Mohammadpur,Smartphones & Social Media,30–120,30–60
-Mahfuz,25,m,Tejgaon,Smartphones & Social Media,240–360,1–2
-Zinia,26,m,Farmgate,Family Problems,120–240,30–60
-Anirban,20,m,Shahbagh,Smartphones & Social Media,120–240,15–30
-Tanushree,32,f,Motijheel,Smartphones & Social Media,360–480,1–2
-Shahriar,27,m,Bailey Road,Relationship,30–120,15–30
-Rahim,28,m,Mohammadpur,Lack of Goal Clarity,120–240,30–60
-Ankita,24,r,Tejgaon,Smartphones & Social Media,30–120,3–5
-Sajid,23,m,Farmgate,Smartphones & Social Media,120–240,15–30
-Prova,19,f,Motijheel,Stress & Anxiety,240–360,30–60
-Foysal,22,m,Shahbagh,Stress & Anxiety,600+,1–2
-Sanchita,31,f,Ramna,Stress & Anxiety,600+,15–30
-Afnan,21,m,Tejgaon,Smartphones & Social Media,120–240,30–60
-Rumi,20,f,Mohammadpur,Lack of Goal Clarity,480–600,5–15
-Debashis,25,m,Farmgate,Relationship,30–120,1–2
-Emon,27,m,Motijheel,Multitasking,30–120,15–30
-Parul,26,f,Shahbagh,Lack of Sleep & Poor Health,240–360,30–60
-Ilias,18,f,Dhanmondi,Stress & Anxiety,120–240,1–2
-Minara,29,f,Tejgaon,Smartphones & Social Media,30–120,30–60
-Sayma,33,f,Motijheel,Multitasking,360–480,15–30
-Tasmia,22,f,Farmgate,Relationship,240–360,1–2
-Rakib,30,m,Mohammadpur,Lack of Sleep & Poor Health,30–120,30–60
-Nusrita,19,f,Shahbagh,Family Problems,120–240,15–30
-Nazifa,28,f,Motijheel,Lack of Sleep & Poor Health,30–120,5–15
-Rimon,23,m,Tejgaon,Smartphones & Social Media,480–600,15–30
-Piyal,24,m,Farmgate,Multitasking,120–240,30–60
-Amrin,20,m,Jatrabari,Stress & Anxiety,30–120,1–2
-Anamika,25,f,Motijheel,Multitasking,30–120,30–60
-Miraz,26,m,Mohammadpur,Lack of Goal Clarity,120–240,15–30
-Nargis,27,m,Shahbagh,Lack of Goal Clarity,240–360,1–2
-Rumiya,32,f,Farmgate,Smartphones & Social Media,600+,15–30
-Arafat,29,m,Tejgaon,Stress & Anxiety,120–240,30–60
-Tasnim,21,f,Motijheel,Multitasking,120–240,5–15
-Sabiha,18,f,Mohammadpur,Stress & Anxiety,120–240,3–5
-Ritu,19,f,Shahbagh,Relationship,120–240,15–30
-Shafi,24,f,Khilgaon,Smartphones & Social Media,120–240,30–60
-Dipto,22,m,Farmgate,Smartphones & Social Media,120–240,1–2
-Nayeema,28,f,Motijheel,Lack of Sleep & Poor Health,480–600,30–60
-Moumita,25,f,Tejgaon,Smartphones & Social Media,360–480,15–30
-Rubina,26,f,Mohammadpur,Smartphones & Social Media,30–120,1–2
-Sabbir,30,m,Shahbagh,Relationship,120–240,30–60
-Sougata,20,f,Farmgate,Stress & Anxiety,30–120,5–15
-Samira,23,f,Motijheel,Relationship,360–480,15–30
-Imran,21,m,Tejgaon,Smartphones & Social Media,600+,30–60
-Iqra,33,f,Malibagh,Smartphones & Social Media,30–120,1–2
-Foysal,19,m,Farmgate,Lack of Sleep & Poor Health,120–240,1–2
-Rakesh,27,m,Mohammadpur,Lack of Goal Clarity,480–600,15–30
-Sneha,22,f,Shahbagh,Stress & Anxiety,30–120,30–60
-Habib,24,m,Motijheel,Family Problems,30–120,3–5
-Shanta,25,f,Tejgaon,Family Problems,360–480,30–60
-Saiful,28,m,Farmgate,Smartphones & Social Media,360–480,15–30
-Priya,31,f,Motijheel,Lack of Sleep & Poor Health,120–240,1–2
-Jannatul,20,f,Shahbagh,Family Problems,30–120,15–30
-Rakibul,26,m,Farmgate,Lack of Goal Clarity,360–480,30–60
-Farhana,18,f,Tejgaon,Stress & Anxiety,240–360,5–15
-Rituparno,29,f,Mohammadpur,Lack of Sleep & Poor Health,120–240,1–2
-Rajat,23,m,Bashabo,Smartphones & Social Media,240–360,15–30
-Naima,30,f,Farmgate,Family Problems,30–120,30–60
-Araf,24,m,Motijheel,Smartphones & Social Media,120–240,1–2
-Shaila,27,f,Shahbagh,Stress & Anxiety,360–480,15–30
-Tania,25,f,Tejgaon,Family Problems,120–240,30–60
-Faysal,19,m,Farmgate,Multitasking,30–120,3–5
-Jui,22,f,Mohammadpur,Multitasking,30–120,15–30
-Rezaul,20,m,Motijheel,Lack of Goal Clarity,120–240,1–2
-Anwara,28,f,Shahbagh,Lack of Goal Clarity,120–240,30–60
-Ayon,31,m,Tejgaon,Smartphones & Social Media,120–240,1–2
-Aparajita,21,f,Farmgate,Lack of Goal Clarity,480–600,5–15
-Sumaiya,23,f,Motijheel,Smartphones & Social Media,30–120,30–60
-Sadi,19,m,Mohammadpur,Relationship,120–240,15–30
-Munia,26,f,Shahbagh,Lack of Sleep & Poor Health,240–360,1–2
-Abeer,24,m,Shahbagh,Relationship,30–120,3–5
-Sharif,25,m,Motijheel,Stress & Anxiety,30–120,30–60
-Liza,27,f,Farmgate,Lack of Goal Clarity,30–120,1–2
-Nishith,32,f,Mohammadpur,Relationship,30–120,15–30
-Arif,30,m,Tejgaon,Family Problems,120–240,30–60
-Tamanna,22,f,Bashabo,Family Problems,120–240,1–2
-Mousumi,23,f,Farmgate,Lack of Sleep & Poor Health,240–360,15–30
-Asif,29,m,Motijheel,Stress & Anxiety,30–120,30–60
-Rida,18,f,Shahbagh,Stress & Anxiety,240–360,3–5
-Mahira,21,f,Tejgaon,Multitasking,120–240,15–30
-Jahid,26,m,Ramna,Relationship,120–240,1–2
-Tanveer,20,m,Mohammadpur,Smartphones & Social Media,120–240,30–60
-Rini,24,f,Farmgate,Multitasking,240–360,1–2
-Riya,25,f,Motijheel,Lack of Sleep & Poor Health,30–120,15–30
-Sultana,33,f,Tejgaon,Smartphones & Social Media,30–120,30–60
-Noman,19,m,Shahbagh,Relationship,480–600,5–15
-Anik,28,m,Jatrabari,Smartphones & Social Media,30–120,1–2
-Jahanara,27,f,Farmgate,Relationship,120–240,15–30
-Sourav,30,m,Motijheel,Lack of Sleep & Poor Health,30–120,30–60
-Tasfia,22,f,Mohammadpur,Smartphones & Social Media,240–360,1–2
-Ruksana,23,f,Bailey Road,Stress & Anxiety,240–360,30–60
-Nurul,31,m,Shahbagh,Smartphones & Social Media,30–120,15–30
-Ashik,21,m,Tejgaon,Relationship,30–120,3–5
-Borsha,26,f,Motijheel,Lack of Goal Clarity,30–120,1–2
-Rony,24,m,Farmgate,Relationship,120–240,15–30
-Tumpa,29,m,Mohammadpur,Lack of Goal Clarity,120–240,30–60
-Shohel,25,m,Dhanmondi,Stress & Anxiety,30–120,1–2
-Sumaya,19,f,Tejgaon,Lack of Sleep & Poor Health,30–120,5–15
-Mahmudul,20,m,Motijheel,Family Problems,30–120,30–60
-Isha,28,f,Shahbagh,Lack of Sleep & Poor Health,30–120,15–30
-Alvi,33,m,Farmgate,Family Problems,30–120,1–2
-Ayesha,22,f,Mohammadpur,Multitasking,120–240,15–30
-Riyad,27,m,Tejgaon,Smartphones & Social Media,120–240,30–60
-Raisa,23,f,Motijheel,Relationship,30–120,1–2
-Tanjil,24,m,Shahbagh,Relationship,120–240,30–60
-Rini,30,f,Farmgate,Multitasking,120–240,5–15
-Rakin,21,m,Jigatola,Multitasking,120–240,15–30
-Sharmistha,19,f,Tejgaon,Smartphones & Social Media,120–240,1–2
-Farzana,26,f,Motijheel,Lack of Sleep & Poor Health,30–120,15–30
-Irfan,25,m,Mohammadpur,Smartphones & Social Media,30–120,30–60
-Soniya,28,f,Farmgate,Stress & Anxiety,30–120,3–5
-Ayman,20,m,Shahbagh,Relationship,240–360,15–30
-Nasrin,29,m,Gulistan,Lack of Goal Clarity,360–480,1–2
-Aniruddha,32,m,Motijheel,Lack of Sleep & Poor Health,30–120,30–60
-Sabiha,24,f,Tejgaon,Multitasking,120–240,5–15
-Shuvo,27,m,Farmgate,Lack of Sleep & Poor Health,30–120,1–2
-Tithy,18,f,Mohammadpur,Relationship,120–240,30–60
-Saikat,22,m,Shahbagh,Relationship,600+,15–30
-Naureen,30,f,Motijheel,Relationship,360–480,1–2
-Hossain,25,m,Tejgaon,Lack of Sleep & Poor Health,240–360,1–2
-Mahfuzur,21,m,Farmgate,Lack of Goal Clarity,30–120,15–30
-Sraboni,23,f,Khilgaon,Stress & Anxiety,30–120,30–60
-Rubayat,28,m,Mohammadpur,Lack of Sleep & Poor Health,360–480,5–15
-Reza,26,m,Shahbagh,Stress & Anxiety,360–480,1–2
-Fatema,19,f,Motijheel,Relationship,30–120,15–30
-Srijon,20,m,Tejgaon,Smartphones & Social Media,240–360,30–60
-Orin,33,f,Farmgate,Family Problems,30–120,1–2
-Tasnia,22,f,Malibagh,Smartphones & Social Media,120–240,30–60
-Ovi,31,m,Mohammadpur,Family Problems,30–120,15–30
-Papia,24,f,Shahbagh,Lack of Goal Clarity,360–480,1–2
-Arifin,25,f,Motijheel,Stress & Anxiety,30–120,15–30
-Rukshana,27,f,Tejgaon,Lack of Goal Clarity,120–240,30–60
-Momin,19,m,Farmgate,Multitasking,30–120,1–2
-Asma,30,m,Mohammadpur,Lack of Sleep & Poor Health,240–360,1–2
-Rafiul,23,m,Shahbagh,Multitasking,240–360,15–30
-Subarna,29,f,Motijheel,Smartphones & Social Media,30–120,30–60
-Shamima,20,f,Tejgaon,Relationship,30–120,5–15
-Bithi,28,f,Siddheshwari,Lack of Sleep & Poor Health,120–240,3–5
-Arindita,21,f,Farmgate,Multitasking,120–240,15–30
-Tanzim,18,m,Motijheel,Family Problems,30–120,1–2
-Mahi,26,f,Mohammadpur,Relationship,120–240,30–60
-Shirin,22,m,Shahbagh,Family Problems,30–120,15–30
-Siam,25,m,Tejgaon,Lack of Sleep & Poor Health,30–120,1–2
-Minhaz,24,m,Motijheel,Relationship,30–120,30–60
-Nazia,27,f,Farmgate,Multitasking,240–360,1–2
-Imtiaz,31,m,Mohammadpur,Stress & Anxiety,240–360,15–30
-Sumi,23,f,Shahbagh,Multitasking,30–120,30–60
-Sazid,19,m,Ramna,Stress & Anxiety,30–120,5–15
-Sayeda,33,f,Motijheel,Family Problems,480–600,15–30
-Monira,20,f,Tejgaon,Smartphones & Social Media,240–360,30–60
-Tareq,29,m,Farmgate,Lack of Sleep & Poor Health,240–360,1–2
-Ananya,26,f,Shahbagh,Multitasking,30–120,1–2
-Sakina,24,f,Motijheel,Smartphones & Social Media,30–120,15–30
-Sabi,30,m,Mohammadpur,Multitasking,480–600,30–60
-Nahid,21,m,Jatrabari,Smartphones & Social Media,240–360,3–5
-Tumpa,25,f,Farmgate,Family Problems,120–240,30–60
-Rashed,27,m,Tejgaon,Smartphones & Social Media,30–120,15–30
-Jahan,19,m,Motijheel,Smartphones & Social Media,30–120,1–2
-Afia,28,f,Shahbagh,Stress & Anxiety,30–120,15–30
-Azfar,22,f,Farmgate,Relationship,600+,30–60
-Ruba,23,f,Mohammadpur,Stress & Anxiety,480–600,5–15
-Akram,20,m,Tejgaon,Relationship,120–240,1–2
-Lima,32,f,Motijheel,Lack of Sleep & Poor Health,30–120,15–30
-Faiz,25,m,Shahbagh,Family Problems,120–240,30–60
-Taslima,24,f,Farmgate,Relationship,360–480,1–2
-Rahi,26,f,Mohammadpur,Multitasking,30–120,15–30
-Mahira,18,f,Tejgaon,Lack of Goal Clarity,240–360,30–60
-Samiha,31,f,Motijheel,Smartphones & Social Media,360–480,3–5
-Jubayer,19,m,Shahbagh,Smartphones & Social Media,240–360,15–30
-Falguni,29,f,Farmgate,Family Problems,240–360,30–60
-Touhid,28,m,Bailey Road,Family Problems,480–600,1–2
-Amrin,21,m,Motijheel,Multitasking,30–120,1–2
-Sanzida,20,f,Tejgaon,Lack of Goal Clarity,240–360,15–30
-Mushfiq,27,m,Farmgate,Lack of Sleep & Poor Health,30–120,30–60
-Lopa,23,m,Mohammadpur,Lack of Sleep & Poor Health,600+,3–5
-Tarikul,30,m,Shahbagh,Relationship,360–480,30–60
-Asha,22,f,Motijheel,Smartphones & Social Media,480–600,15–30
-Faisal,24,m,Farmgate,Multitasking,30–120,1–2
-Ruma,33,F,Tejgaon,Lack of Sleep & Poor Health,30–120,15–30
-Mahbub,25,M,Dhanmondi,Stress & Anxiety,120–240,30–60
-Riyana,19,f,Shahbagh,Smartphones & Social Media,120–240,1–2
-Arko,26,m,Jigatola,Lack of Sleep & Poor Health,240–360,30–60
-Tuhin,27,m,Motijheel,Smartphones & Social Media,30–120,15–30
-Alisha,20,f,Ramna,Relationship,240–360,5–15
-Rihan,21,m,Farmgate,Stress & Anxiety,360–480,1–2
-Pritha,23,f,Bailey Road,Relationship,360–480,15–30
-Nafisa,22,f,Mohammadpur,Relationship,600+,30–60
-Zahid,30,m,Tejgaon,Smartphones & Social Media,240–360,1–2
-Riya,19,f,Malibagh,Smartphones & Social Media,30–120,30–60
-Omi,28,f,Shahbagh,Lack of Sleep & Poor Health,120–240,15–30
-Sruti,25,f,Gulistan,Family Problems,360–480,5–15
-Fariha,31,f,Motijheel,Lack of Sleep & Poor Health,480–600,15–30
-Arafi,24,f,Bashabo,Multitasking,120–240,30–60
-Rituparna,29,f,Tejgaon,Multitasking,30–120,1–2
-Anwar,20,m,Farmgate,Smartphones & Social Media,240–360,30–60
-Sohana,27,f,Wari,Multitasking,30–120,15–30
-Samiul,26,m,Secretariat,Lack of Sleep & Poor Health,120–240,1–2
-Sathi,23,f,Mohammadpur,Lack of Sleep & Poor Health,240–360,15–30
-Javed,21,m,Motijheel,Smartphones & Social Media,30–120,30–60
-Karishma,33,f,Siddheshwari,Smartphones & Social Media,240–360,3–5
-Rafi,22,m,Shahbagh,Lack of Sleep & Poor Health,480–600,15–30
-Saika,24,f,Jatrabari,Smartphones & Social Media,120–240,30–60
-Rubel,28,m,Farmgate,Lack of Goal Clarity,120–240,1–2
-Mim,19,f,Tejgaon,Stress & Anxiety,30–120,15–30
-Shahadat,25,m,Khilgaon,Smartphones & Social Media,30–120,30–60
-Raisa,30,f,Motijheel,Smartphones & Social Media,360–480,5–15
-Parvez,32,m,Dhanmondi,Family Problems,30–120,1–2
-Irin,20,f,Shahbagh,Lack of Goal Clarity,120–240,15–30
-Rakib,27,m,Bailey Road,Lack of Sleep & Poor Health,480–600,30–60
-Mahira,18,f,Farmgate,Family Problems,30–120,1–2
-Sadia,26,f,Mohammadpur,Relationship,30–120,30–60
-Aninda,29,f,Jigatola,Lack of Sleep & Poor Health,120–240,15–30
-Arisha,23,f,Tejgaon,Family Problems,120–240,1–2
-Faiyaz,22,m,Motijheel,Stress & Anxiety,240–360,30–60
-Nafisa,21,f,Shahbagh,Lack of Goal Clarity,600+,15–30
-Shadman,19,m,Ramna,Multitasking,30–120,5–15
-Afra,24,f,Farmgate,Lack of Goal Clarity,120–240,15–30
-Salman,25,m,Mohammadpur,Lack of Goal Clarity,30–120,30–60
-Oindrila,27,f,Shahbagh,Lack of Goal Clarity,120–240,1–2
-Sakib,20,m,Motijheel,Stress & Anxiety,120–240,30–60
-Joya,30,f,Tejgaon,Smartphones & Social Media,120–240,15–30
-Shohag,33,m,Malibagh,Smartphones & Social Media,30–120,1–2
-Nazifa,26,f,Farmgate,Stress & Anxiety,30–120,15–30
-Mahiya,28,f,Mohammadpur,Lack of Goal Clarity,120–240,30–60
-Zubair,19,m,Shahbagh,Stress & Anxiety,30–120,1–2
-Suhana,22,f,Bashabo,Stress & Anxiety,30–120,15–30
-Nishita,24,m,Tejgaon,Smartphones & Social Media,360–480,5–15
-Ashraful,21,m,Motijheel,Smartphones & Social Media,30–120,30–60
-Sristi,23,f,Farmgate,Stress & Anxiety,30–120,3–5
-Imran,27,m,Secretariat,Multitasking,120–240,1–2
-Monika,25,f,Shahbagh,Relationship,30–120,15–30
-Sajjad,29,m,Motijheel,Lack of Goal Clarity,600+,30–60
-Rini,20,f,Tejgaon,Family Problems,240–360,5–15
-Zahra,31,f,Gulistan,Relationship,240–360,1–2
-Rakibul,26,m,Farmgate,Lack of Sleep & Poor Health,30–120,30–60
-Rukhsar,19,m,Mohammadpur,Stress & Anxiety,30–120,15–30
-Rumana,33,f,Shahbagh,Smartphones & Social Media,120–240,1–2
-Hasan,24,m,Motijheel,Multitasking,240–360,3–5
-Tithi,22,f,Tejgaon,Stress & Anxiety,120–240,30–60
-Arpita,28,f,Farmgate,Lack of Sleep & Poor Health,30–120,1–2
-Adiba,23,f,Wari,Lack of Goal Clarity,240–360,15–30
-Faruq,27,m,Mohammadpur,Smartphones & Social Media,30–120,30–60
-Monira,21,f,Motijheel,Lack of Sleep & Poor Health,600+,5–15
-Riad,25,m,Shahbagh,Smartphones & Social Media,480–600,1–2
-Sanzida,20,f,Farmgate,Multitasking,120–240,15–30
-Arman,30,m,Tejgaon,Smartphones & Social Media,120–240,30–60
-Rupali,19,m,Malibagh,Lack of Sleep & Poor Health,360–480,3–5
-Tuhin,32,m,Motijheel,Multitasking,120–240,1–2
-Afia,22,f,Farmgate,Stress & Anxiety,240–360,30–60
-Firoz,23,f,Shahbagh,Family Problems,120–240,15–30
-Tanzila,27,f,Tejgaon,Family Problems,30–120,5–15
-Sakina,26,f,Mohammadpur,Lack of Goal Clarity,240–360,1–2
-Rubi,24,f,Bailey Road,Smartphones & Social Media,30–120,15–30
-Anwarul,25,m,Motijheel,Family Problems,240–360,30–60
-Rida,21,f,Farmgate,Smartphones & Social Media,240–360,1–2
-Subrata,29,f,Shahbagh,Lack of Goal Clarity,30–120,30–60
-Nahid,20,m,Tejgaon,Multitasking,120–240,15–30
-Ruksana,19,f,Motijheel,Smartphones & Social Media,30–120,3–5
-Afsana,33,f,Ramna,Smartphones & Social Media,30–120,1–2
-Tanzim,28,m,Farmgate,Lack of Sleep & Poor Health,120–240,15–30
-Mouri,24,m,Mohammadpur,Stress & Anxiety,120–240,30–60
-Rahim,22,m,Shahbagh,Lack of Sleep & Poor Health,30–120,5–15
-Priyanka,31,f,Motijheel,Multitasking,30–120,1–2
-Jalal,23,m,Tejgaon,Lack of Goal Clarity,30–120,15–30
-Rumi,26,f,Farmgate,Smartphones & Social Media,120–240,30–60
-Arifin,25,m,Siddheshwari,Relationship,240–360,3–5
-Koli,27,f,Mohammadpur,Family Problems,30–120,1–2
-Rezaul,19,m,Motijheel,Lack of Goal Clarity,120–240,30–60
-Sumi,21,f,Shahbagh,Multitasking,120–240,15–30
-Munmun,20,m,Farmgate,Smartphones & Social Media,30–120,5–15
-Fariha,30,f,Tejgaon,Smartphones & Social Media,30–120,1–2
-Oishee,22,f,Jigatola,Lack of Sleep & Poor Health,120–240,15–30
-Shafi,24,m,Motijheel,Relationship,30–120,30–60
-Anannya,23,f,Shahbagh,Stress & Anxiety,480–600,1–2
-Saiful,26,m,Farmgate,Lack of Goal Clarity,120–240,30–60
-Mousumi,29,f,Tejgaon,Relationship,120–240,15–30
-Javed,27,m,Mohammadpur,Smartphones & Social Media,30–120,3–5
-Naima,18,f,Bashabo,Lack of Sleep & Poor Health,120–240,1–2
-Ilias,25,m,Motijheel,Family Problems,240–360,15–30
-Mou,31,f,Farmgate,Lack of Sleep & Poor Health,30–120,30–60
-Sadaf,21,m,Shahbagh,Lack of Sleep & Poor Health,360–480,5–15
-Sabbir,19,m,Tejgaon,Smartphones & Social Media,120–240,1–2
-Arindam,22,m,Motijheel,Relationship,120–240,15–30
-Tamal,28,m,Farmgate,Smartphones & Social Media,30–120,30–60
-Taniya,20,f,Mohammadpur,Smartphones & Social Media,30–120,3–5
-Tashfia,24,f,Shahbagh,Smartphones & Social Media,120–240,1–2
-Rimon,23,m,Tejgaon,Stress & Anxiety,30–120,30–60
-Adrita,33,f,Motijheel,Stress & Anxiety,120–240,15–30
-Samiha,25,f,Farmgate,Stress & Anxiety,120–240,5–15
-Rumiya,26,m,Shahbagh,Smartphones & Social Media,240–360,1–2
-Mahin,30,m,Motijheel,Stress & Anxiety,120–240,15–30
-Tanvirul,27,m,Tejgaon,Relationship,30–120,30–60
-Iqra,19,f,Mohammadpur,Lack of Goal Clarity,120–240,1–2
-Rubina,29,f,Farmgate,Relationship,120–240,30–60
-Riaz,21,m,Shahbagh,Smartphones & Social Media,120–240,15–30
-Arafat,22,m,Motijheel,Family Problems,30–120,3–5
-Tuhin,24,m,Tejgaon,Stress & Anxiety,120–240,1–2
-Ayesha,20,f,Farmgate,Multitasking,360–480,15–30
-Sahana,23,f,Mohammadpur,Smartphones & Social Media,30–120,30–60
-Jishan,28,m,Shahbagh,Lack of Sleep & Poor Health,120–240,5–15
-Sraboni,26,f,Motijheel,Multitasking,120–240,1–2
-Tahmid,25,m,Tejgaon,Multitasking,30–120,15–30
-Shirin,30,m,Farmgate,Multitasking,30–120,30–60
-Nayeem,27,m,Gulistan,Family Problems,120–240,3–5
-Priya,19,f,Mohammadpur,Multitasking,120–240,1–2
-Arko,32,m,Shahbagh,Smartphones & Social Media,30–120,30–60
-Sumaiya,24,f,Motijheel,Stress & Anxiety,120–240,15–30
+0,Abrar,17,M,Motijheel,Lack of Sleep & Poor Health,180.0,4.0
+1,Kanchon,16,M,Mohammadpur,Lack of Sleep & Poor Health,180.0,22.5
+2,Shafi,17,M,Tejgaon,Lack of Sleep & Poor Health,180.0,45.0
+3,Zunyaed,18,M,Farmgate,Stress & Anxiety,75.0,1.5
+4,Jabeer,17,M,Shahbagh,Family Problems,180.0,45.0
+5,Naushad,17,M,Jigatola,Multitasking,180.0,1.5
+6,Kausar,18,M,Dhanmondi,Smartphones & Social Media,75.0,4.0
+7,Tahmid,17,M,Ramna,Family Problems,180.0,22.5
+8,Tawhid,17,M,Bashabo,Lack of Goal Clarity,300.0,1.5
+9,Tawsif,16,M,Khilgaon,Smartphones & Social Media,75.0,10.0
+10,Meraz,17,M,Bailey Road,Lack of Sleep & Poor Health,180.0,45.0
+11,Sahul,18,M,Malibagh,Smartphones & Social Media,75.0,1.5
+12,Shoaib,19,M,Siddheshwari,Stress & Anxiety,180.0,22.5
+13,Marif,17,M,Secretariat,Lack of Sleep & Poor Health,180.0,45.0
+14,Rayhan,18,M,Gulistan,Smartphones & Social Media,180.0,4.0
+15,Arif,17,M,Jatrabari,Relationship,540.0,1.5
+16,Faiz,18,M,Wari,Multitasking,300.0,22.5
+17,Rayan,17,M,Motijheel,Smartphones & Social Media,75.0,45.0
+18,Nayeem,18,M,Tejgaon,Multitasking,420.0,22.5
+19,Arafat,17,M,Farmgate,Smartphones & Social Media,180.0,1.5
+20,Ehsan,18,M,Mohammadpur,Smartphones & Social Media,180.0,1.5
+21,Samir,17,M,Shahbagh,Lack of Sleep & Poor Health,75.0,45.0
+22,Tanveer,17,M,Motijheel,Relationship,75.0,10.0
+23,Mahir,17,M,Tejgaon,Multitasking,300.0,22.5
+24,Iqbal,17,M,Farmgate,Stress & Anxiety,420.0,45.0
+25,Anwar,18,M,Mohammadpur,Multitasking,420.0,1.5
+26,Nasir,17,M,Shahbagh,Stress & Anxiety,180.0,22.5
+27,Habib,18,M,Motijheel,Multitasking,75.0,1.5
+28,Farhan,18,M,Tejgaon,Stress & Anxiety,300.0,45.0
+29,Ayaan,18,M,Farmgate,Family Problems,180.0,1.5
+30,Rafi,17,M,Mohammadpur,Lack of Goal Clarity,75.0,22.5
+31,Shuvro,16,M,Shahbagh,Stress & Anxiety,75.0,1.5
+32,Armaan,19,M,Motijheel,Stress & Anxiety,,45.0
+33,Zayan,17,M,Tejgaon,Stress & Anxiety,180.0,22.5
+34,Mikael,16,M,Farmgate,Multitasking,75.0,4.0
+35,Rayyan,14,M,Mohammadpur,Lack of Sleep & Poor Health,180.0,22.5
+36,Shamin,14,M,Shahbagh,Family Problems,75.0,1.5
+37,Talha,13,M,Motijheel,Smartphones & Social Media,,45.0
+38,Shaheen,14,M,Tejgaon,Lack of Goal Clarity,180.0,22.5
+39,Ishtiaq,13,M,Farmgate,Family Problems,540.0,10.0
+40,Faiyaz,15,M,Mohammadpur,Smartphones & Social Media,180.0,1.5
+41,Adnan,16,M,Shahbagh,Stress & Anxiety,180.0,1.5
+42,Firoz,15,M,Jigatola,Lack of Sleep & Poor Health,75.0,45.0
+43,Saad,16,M,Dhanmondi,Smartphones & Social Media,180.0,4.0
+44,Ariful,13,M,Ramna,Multitasking,300.0,45.0
+45,Sajid,15,M,Bashabo,Multitasking,75.0,22.5
+46,Reza,17,M,Khilgaon,Smartphones & Social Media,540.0,1.5
+47,Shams,17,M,Bailey Road,Smartphones & Social Media,180.0,22.5
+48,Tamim,18,M,Malibagh,Lack of Goal Clarity,300.0,45.0
+49,Fardin,19,M,Siddheshwari,Lack of Goal Clarity,420.0,10.0
+50,Sarfaraz,21,M,Secretariat,Stress & Anxiety,75.0,1.5
+51,Ahsan,22,M,Gulistan,Smartphones & Social Media,180.0,22.5
+52,Emon,17,M,Jatrabari,Lack of Sleep & Poor Health,75.0,45.0
+53,Moin,15,M,Wari,Family Problems,180.0,1.5
+54,Mahbub,13,M,Motijheel,Smartphones & Social Media,180.0,1.5
+55,Shuvo,13,M,Tejgaon,Smartphones & Social Media,420.0,45.0
+56,Tanim,15,M,Farmgate,Smartphones & Social Media,,22.5
+57,Rashed,17,M,Mohammadpur,Lack of Goal Clarity,180.0,45.0
+58,Iftekhar,16,M,Shahbagh,Stress & Anxiety,180.0,4.0
+59,Parvez,18,M,Motijheel,Relationship,75.0,1.5
+60,Ashik,18,M,Tejgaon,Relationship,75.0,22.5
+61,Nabil,16,M,Farmgate,Lack of Sleep & Poor Health,300.0,45.0
+62,Danish,19,M,Mohammadpur,Family Problems,180.0,22.5
+63,Ayman,22,M,Shahbagh,Relationship,180.0,1.5
+64,Sharif,22,M,Motijheel,Stress & Anxiety,180.0,45.0
+65,Faique,25,M,Tejgaon,Lack of Goal Clarity,180.0,10.0
+66,Shajid,28,M,Farmgate,Smartphones & Social Media,75.0,22.5
+67,Khalid,16,M,Mohammadpur,Lack of Sleep & Poor Health,75.0,1.5
+68,Amir,16,M,Shahbagh,Multitasking,180.0,4.0
+69,Asif,17,M,Motijheel,Lack of Goal Clarity,420.0,45.0
+70,Sumon,16,M,Tejgaon,Family Problems,180.0,1.5
+71,Ridwan,18,M,Farmgate,Lack of Sleep & Poor Health,180.0,22.5
+72,Rifat,17,M,Mohammadpur,Multitasking,75.0,45.0
+73,Jisan,18,M,Shahbagh,Family Problems,540.0,1.5
+74,Mahi,18,M,Jigatola,Lack of Sleep & Poor Health,180.0,22.5
+75,Afnan,16,M,Dhanmondi,Relationship,420.0,45.0
+76,Shajal,15,M,Ramna,Multitasking,75.0,4.0
+77,Ilyas,13,M,Bashabo,Smartphones & Social Media,,22.5
+78,Nafis,13,M,Khilgaon,Lack of Sleep & Poor Health,420.0,1.5
+79,Rakin,12,M,Bailey Road,Smartphones & Social Media,300.0,45.0
+80,Marzuq,13,M,Malibagh,Lack of Sleep & Poor Health,75.0,1.5
+81,Feroz,12,M,Siddheshwari,Smartphones & Social Media,180.0,10.0
+82,Anis,13,M,Secretariat,Lack of Sleep & Poor Health,180.0,45.0
+83,Zubair,13,M,Gulistan,Multitasking,75.0,22.5
+84,Azim,16,M,Jatrabari,Multitasking,75.0,1.5
+85,Mahfuz,17,M,Wari,Multitasking,75.0,4.0
+86,Tasnim,16,M,Motijheel,Stress & Anxiety,75.0,45.0
+87,Arham,18,M,Tejgaon,Relationship,180.0,1.5
+88,Imran,16,M,Farmgate,Family Problems,180.0,22.5
+89,Sami,17,M,Mohammadpur,Family Problems,420.0,1.5
+90,Rayad,18,M,Shahbagh,Smartphones & Social Media,420.0,45.0
+91,Zayan,18,M,Motijheel,Lack of Sleep & Poor Health,75.0,10.0
+92,Saif,18,M,Tejgaon,Multitasking,180.0,1.5
+93,Mahin,17,M,Farmgate,Lack of Sleep & Poor Health,180.0,22.5
+94,Tanvir,17,M,Mohammadpur,Relationship,300.0,45.0
+95,Najib,17,M,Shahbagh,Multitasking,75.0,1.5
+96,Naim,17,M,Motijheel,Smartphones & Social Media,180.0,45.0
+97,Faruq,18,M,Tejgaon,Smartphones & Social Media,75.0,22.5
+98,Shahin,15,M,Farmgate,Smartphones & Social Media,75.0,4.0
+99,Shahnawaz,14,M,Mohammadpur,Smartphones & Social Media,,1.5
+100,Abrish,13,M,Shahbagh,Lack of Sleep & Poor Health,300.0,22.5
+101,Momin,14,M,Motijheel,Lack of Sleep & Poor Health,75.0,45.0
+102,Araf,15,M,Tejgaon,Stress & Anxiety,420.0,1.5
+103,Qais,18,M,Farmgate,Relationship,75.0,10.0
+104,Sarif,17,M,Mohammadpur,Smartphones & Social Media,180.0,45.0
+105,Zihad,15,M,Shahbagh,Smartphones & Social Media,180.0,22.5
+106,Mehedi,14,M,Jigatola,Stress & Anxiety,300.0,1.5
+107,Ariz,15,M,Dhanmondi,Lack of Sleep & Poor Health,,22.5
+108,Feroz,14,M,Ramna,Smartphones & Social Media,180.0,45.0
+109,Noman,18,M,Bashabo,Multitasking,75.0,1.5
+110,Azfar,19,M,Khilgaon,Stress & Anxiety,180.0,45.0
+111,Samiul,17,M,Bailey Road,Lack of Sleep & Poor Health,75.0,10.0
+112,Ahsin,17,M,Malibagh,Lack of Sleep & Poor Health,75.0,22.5
+113,Jahid,27,M,Siddheshwari,Lack of Sleep & Poor Health,75.0,1.5
+114,Tauhid,28,M,Secretariat,Relationship,75.0,22.5
+115,Shadman,16,M,Gulistan,Smartphones & Social Media,540.0,45.0
+116,Anwarul,17,M,Jatrabari,Smartphones & Social Media,300.0,4.0
+117,Sabir,24,M,Wari,Smartphones & Social Media,420.0,22.5
+118,Rumeel,25,M,Motijheel,Multitasking,75.0,1.5
+119,Junaid,29,M,Tejgaon,Stress & Anxiety,300.0,45.0
+120,Ijaz,34,M,Farmgate,Multitasking,75.0,10.0
+121,Talib,21,M,Mohammadpur,Lack of Sleep & Poor Health,75.0,1.5
+122,Khalil,21,M,Shahbagh,Lack of Sleep & Poor Health,,45.0
+123,Arafi,25,M,Motijheel,Smartphones & Social Media,,22.5
+124,Zahir,27,M,Tejgaon,Smartphones & Social Media,180.0,1.5
+125,Mahmud,23,M,Farmgate,Smartphones & Social Media,180.0,1.5
+126,Rizwan,24,M,Mohammadpur,Smartphones & Social Media,180.0,22.5
+127,Fahim,29,M,Shahbagh,Stress & Anxiety,75.0,45.0
+128,Samad,43,M,Motijheel,Lack of Sleep & Poor Health,75.0,10.0
+129,Arfan,26,M,Tejgaon,Relationship,180.0,1.5
+130,Nayeemul,29,M,Farmgate,Stress & Anxiety,420.0,22.5
+131,Shadid,16,M,Mohammadpur,Smartphones & Social Media,75.0,45.0
+132,Ismail,17,M,Shahbagh,Lack of Sleep & Poor Health,300.0,1.5
+133,Amin,12,M,Motijheel,Smartphones & Social Media,75.0,45.0
+134,Rameez,12,M,Tejgaon,Stress & Anxiety,75.0,22.5
+135,Saiful,13,M,Farmgate,Family Problems,75.0,1.5
+136,Faiyazul,14,M,Mohammadpur,Family Problems,75.0,22.5
+137,Ridwanul,44,M,Shahbagh,Smartphones & Social Media,300.0,45.0
+138,Mariam,37,F,Jigatola,Family Problems,180.0,1.5
+139,Sumaiya,17,F,Dhanmondi,Multitasking,180.0,1.5
+140,Afsana,16,F,Ramna,Lack of Sleep & Poor Health,420.0,22.5
+141,Nusrat,17,F,Bashabo,Lack of Sleep & Poor Health,420.0,45.0
+142,Farzana,47,F,Khilgaon,Family Problems,75.0,10.0
+143,Rukaiya,39,F,Bailey Road,Lack of Sleep & Poor Health,540.0,4.0
+144,Sohana,17,F,Malibagh,Family Problems,75.0,22.5
+145,Nabila,15,F,Siddheshwari,Lack of Goal Clarity,,1.5
+146,Jannat,18,F,Secretariat,Relationship,180.0,45.0
+147,Fariha,19,F,Gulistan,Smartphones & Social Media,180.0,22.5
+148,Ayesha,19,F,Jatrabari,Lack of Goal Clarity,540.0,1.5
+149,Sabina,17,F,Wari,Stress & Anxiety,300.0,45.0
+150,Shabana,17,F,Motijheel,Smartphones & Social Media,180.0,1.5
+151,Tasnim,33,F,Tejgaon,Lack of Goal Clarity,75.0,22.5
+152,Mahjabeen,15,F,Farmgate,Relationship,75.0,45.0
+153,Rina,18,F,Mohammadpur,Multitasking,300.0,10.0
+154,Anika,16,F,Shahbagh,Stress & Anxiety,75.0,22.5
+155,Ifrah,16,F,Motijheel,Lack of Goal Clarity,75.0,45.0
+156,Lamiya,17,F,Tejgaon,Smartphones & Social Media,180.0,1.5
+157,Samira,16,F,Farmgate,Stress & Anxiety,180.0,1.5
+158,Shumaiya,16,F,Mohammadpur,Stress & Anxiety,180.0,22.5
+159,Faria,17,F,Shahbagh,Smartphones & Social Media,75.0,45.0
+160,Nazia,18,F,Motijheel,Stress & Anxiety,75.0,4.0
+161,Mahinur,19,F,Tejgaon,Relationship,75.0,45.0
+162,Arfa,15,F,Farmgate,Lack of Sleep & Poor Health,180.0,22.5
+163,Sadiya,17,F,Mohammadpur,Multitasking,75.0,1.5
+164,Shaila,17,F,Shahbagh,Lack of Goal Clarity,,22.5
+165,Rumana,15,F,Jigatola,Smartphones & Social Media,75.0,45.0
+166,Tahmina,16,F,Dhanmondi,Family Problems,180.0,10.0
+167,Nayeema,17,F,Ramna,Family Problems,75.0,1.5
+168,Aysha,18,F,Bashabo,Relationship,75.0,22.5
+169,Sultana,19,F,Khilgaon,Stress & Anxiety,75.0,45.0
+170,Minara,24,F,Bailey Road,Smartphones & Social Media,75.0,1.5
+171,Aarvi,16,F,Malibagh,Multitasking,75.0,22.5
+172,Anaya,19,F,Siddheshwari,Smartphones & Social Media,180.0,45.0
+173,Ira,24,F,Secretariat,Family Problems,75.0,4.0
+174,Diya,22,F,Gulistan,Stress & Anxiety,75.0,22.5
+175,Mahi,22,F,Jatrabari,Lack of Sleep & Poor Health,300.0,45.0
+176,Tisha,26,F,Wari,Lack of Goal Clarity,300.0,1.5
+177,Zara,32,F,Motijheel,Stress & Anxiety,,1.5
+178,Niva,16,F,Tejgaon,Multitasking,75.0,22.5
+179,Myra,17,F,Farmgate,Stress & Anxiety,180.0,45.0
+180,Sia,16,F,Mohammadpur,Family Problems,180.0,4.0
+181,Anvi,15,F,Shahbagh,Smartphones & Social Media,300.0,45.0
+182,Esha,18,F,Motijheel,Multitasking,420.0,22.5
+183,Rhea,18,F,Tejgaon,Stress & Anxiety,75.0,1.5
+184,Leya,16,F,Farmgate,Multitasking,180.0,22.5
+185,Tara,19,F,Mohammadpur,Lack of Goal Clarity,180.0,45.0
+186,Niyati,17,F,Shahbagh,Relationship,180.0,1.5
+187,Inaaya,16,F,Motijheel,Family Problems,300.0,45.0
+188,Kiara,17,F,Tejgaon,Smartphones & Social Media,420.0,22.5
+189,Samaira,19,F,Farmgate,Lack of Sleep & Poor Health,75.0,10.0
+190,Aahana,23,F,Mohammadpur,Stress & Anxiety,180.0,1.5
+191,Riva,23,F,Shahbagh,Smartphones & Social Media,75.0,22.5
+192,Ina,22,F,Jigatola,Smartphones & Social Media,75.0,45.0
+193,Avni,22,F,Dhanmondi,Stress & Anxiety,,1.5
+194,Meera,22,F,Ramna,Relationship,180.0,45.0
+195,Aarohi,22,F,Bashabo,Smartphones & Social Media,,22.5
+196,Tanshi,21,F,Khilgaon,Smartphones & Social Media,180.0,10.0
+197,Saanvi,14,F,Bailey Road,Smartphones & Social Media,180.0,22.5
+198,Ayesha,25,F,Malibagh,Lack of Sleep & Poor Health,180.0,45.0
+199,Ritika,25,F,Siddheshwari,Stress & Anxiety,180.0,1.5
+200,Ishita,24,F,Secretariat,Lack of Sleep & Poor Health,180.0,45.0
+201,Anika,24,F,Gulistan,Lack of Sleep & Poor Health,300.0,22.5
+202,Pari,24,F,Jatrabari,Smartphones & Social Media,75.0,1.5
+203,Zoya,24,F,Wari,Family Problems,180.0,22.5
+204,Suhana,24,F,Motijheel,Stress & Anxiety,180.0,45.0
+205,Reva,24,F,Tejgaon,Multitasking,420.0,4.0
+206,Alisha,24,F,Farmgate,Lack of Goal Clarity,300.0,22.5
+207,Tanvi,26,F,Mohammadpur,Multitasking,300.0,45.0
+208,Naira,27,F,Shahbagh,Lack of Sleep & Poor Health,75.0,1.5
+209,Ridhima,24,F,Motijheel,Relationship,180.0,22.5
+210,Arnav,22,F,Tejgaon,Relationship,75.0,45.0
+211,Vihaan,25,F,Farmgate,Lack of Goal Clarity,75.0,10.0
+212,Darsh,22,F,Mohammadpur,Family Problems,180.0,1.5
+213,Ronav,25,M,Shahbagh,Smartphones & Social Media,420.0,10.0
+214,Nishith,25,F,Motijheel,Multitasking,75.0,22.5
+215,Shaurya,27,M,Tejgaon,Relationship,540.0,45.0
+216,Rishabh,28,M,Farmgate,Family Problems,180.0,1.5
+217,Kabir,44,M,Mohammadpur,Family Problems,180.0,1.5
+218,Devansh,24,M,Shahbagh,Smartphones & Social Media,180.0,22.5
+219,Aryan,21,M,Jigatola,Smartphones & Social Media,75.0,45.0
+220,Aditya,22,M,Dhanmondi,Lack of Goal Clarity,75.0,4.0
+221,Neil,25,M,Ramna,Multitasking,180.0,45.0
+222,Nathan,26,M,Bashabo,Multitasking,75.0,22.5
+223,Aarush,29,M,Khilgaon,Lack of Goal Clarity,180.0,1.5
+224,Anay,14,M,Bailey Road,Smartphones & Social Media,420.0,45.0
+225,Raghav,12,M,Malibagh,Smartphones & Social Media,300.0,22.5
+226,Soham,13,M,Siddheshwari,Lack of Sleep & Poor Health,75.0,1.5
+227,Riddhi,12,F,Secretariat,Multitasking,300.0,22.5
+228,Arifin,19,M,Gulistan,Lack of Sleep & Poor Health,75.0,45.0
+229,Feroz,55,M,Jatrabari,Stress & Anxiety,,4.0
+230,Partha,51,M,Wari,Lack of Sleep & Poor Health,75.0,22.5
+231,Abir,22,M,Motijheel,Multitasking,420.0,45.0
+232,Joydeep,27,M,Tejgaon,Lack of Goal Clarity,75.0,1.5
+233,Sourav,32,M,Farmgate,Stress & Anxiety,180.0,22.5
+234,Arindam,27,M,Mohammadpur,Family Problems,180.0,45.0
+235,Debjit,37,M,Shahbagh,Smartphones & Social Media,180.0,10.0
+236,Ritvik,23,M,Motijheel,Lack of Goal Clarity,180.0,1.5
+237,Anish,26,M,Tejgaon,Stress & Anxiety,75.0,22.5
+238,Bibek,28,M,Farmgate,Stress & Anxiety,75.0,45.0
+239,Avik,17,M,Mohammadpur,Lack of Goal Clarity,75.0,1.5
+240,Arpan,18,M,Shahbagh,Lack of Sleep & Poor Health,300.0,45.0
+241,Ritoban,22,M,Motijheel,Stress & Anxiety,180.0,22.5
+242,Tanmay,23,M,Tejgaon,Family Problems,180.0,1.5
+243,Chinmoy,25,M,Farmgate,Multitasking,180.0,45.0
+244,Animesh,46,M,Mohammadpur,Stress & Anxiety,75.0,22.5
+245,Saheb,22,M,Shahbagh,Relationship,180.0,10.0
+246,Pranay,26,M,Jigatola,Smartphones & Social Media,75.0,22.5
+247,Subhajit,29,M,Dhanmondi,Stress & Anxiety,420.0,45.0
+248,Ananda,17,M,Jatrabari,Family Problems,75.0,1.5
+249,Koustav,17,M,Malibagh,Smartphones & Social Media,180.0,1.5
+250,Raktim,33,M,Dhanmondi,Smartphones & Social Media,75.0,22.5
+251,Soumik,44,M,Siddheshwari,Smartphones & Social Media,420.0,45.0
+252,Aviral,43,M,Wari,Multitasking,300.0,4.0
+253,Ishraq,37,M,Secretariat,Lack of Sleep & Poor Health,180.0,22.5
+254,Shazid,38,M,Ramna,Lack of Goal Clarity,180.0,45.0
+255,Aahil,33,M,Bailey Road,Multitasking,300.0,1.5
+256,Fahad,32,M,Bashabo,Relationship,75.0,45.0
+257,Arham,36,M,Khilgaon,Family Problems,180.0,22.5
+258,Mehedi,27,M,Gulistan,Family Problems,300.0,1.5
+259,Nazim,33,M,Jigatola,Lack of Sleep & Poor Health,75.0,45.0
+260,Shahbaz,46,M,Siddheshwari,Stress & Anxiety,180.0,10.0
+261,Junaid,44,M,Bailey Road,Stress & Anxiety,180.0,1.5
+262,Talha,47,M,Ramna,Relationship,180.0,22.5
+263,Zayan,15,M,Bashabo,Lack of Goal Clarity,180.0,45.0
+264,Afnan,17,M,Malibagh,Multitasking,180.0,1.5
+265,Ranit,16,M,Khilgaon,Lack of Sleep & Poor Health,75.0,22.5
+266,Deblina,18,F,Wari,Family Problems,420.0,45.0
+267,Sourish,19,M,Gulistan,Stress & Anxiety,420.0,4.0
+268,Arindita,17,F,Jigatola,Lack of Sleep & Poor Health,75.0,22.5
+269,Suvroop,12,M,Secretariat,Family Problems,180.0,1.5
+270,Prithwi,12,F,Dhanmondi,Smartphones & Social Media,180.0,45.0
+271,Tanisha,18,F,Jatrabari,Stress & Anxiety,180.0,1.5
+272,Arjit,19,M,Bailey Road,Family Problems,300.0,10.0
+273,Bishwajit,16,M,Malibagh,Lack of Sleep & Poor Health,75.0,45.0
+274,Sharmistha,18,F,Wari,Smartphones & Social Media,75.0,22.5
+275,Anvay,22,M,Bashabo,Relationship,75.0,1.5
+276,Manjari,23,M,Khilgaon,Lack of Sleep & Poor Health,180.0,4.0
+277,Rohini,27,F,Ramna,Smartphones & Social Media,300.0,45.0
+278,Biplob,28,M,Jigatola,Smartphones & Social Media,180.0,1.5
+279,Ishita,24,F,Dhanmondi,Relationship,180.0,22.5
+280,Anindya,25,F,Siddheshwari,Relationship,75.0,45.0
+281,Ritika,26,F,Gulistan,Smartphones & Social Media,180.0,1.5
+282,Ritam,22,F,Secretariat,Smartphones & Social Media,75.0,22.5
+283,Sayantika,21,F,Jatrabari,Relationship,75.0,45.0
+284,Sougata,22,F,Bailey Road,Stress & Anxiety,180.0,4.0
+285,Rishika,24,F,Bashabo,Lack of Goal Clarity,300.0,22.5
+286,Aritra,25,F,Khilgaon,Lack of Goal Clarity,75.0,1.5
+287,Priyanka,23,F,Malibagh,Stress & Anxiety,75.0,45.0
+288,Subhayan,22,F,Siddheshwari,Smartphones & Social Media,180.0,1.5
+289,Ruhul,21,M,Wari,Smartphones & Social Media,180.0,22.5
+290,Arpita,28,F,Dhanmondi,Relationship,75.0,45.0
+291,Rimon,33,M,Jigatola,Smartphones & Social Media,300.0,10.0
+292,Srishti,33,F,Gulistan,Relationship,300.0,1.5
+293,Samarth,37,M,Ramna,Stress & Anxiety,,22.5
+294,Debjani,36,M,Secretariat,Smartphones & Social Media,75.0,45.0
+295,Sohini,39,F,Jatrabari,Stress & Anxiety,75.0,1.5
+296,Bikram,31,M,Bailey Road,Smartphones & Social Media,420.0,45.0
+297,Trina,34,F,Malibagh,Smartphones & Social Media,540.0,22.5
+298,Indranil,37,F,Khilgaon,Lack of Sleep & Poor Health,180.0,4.0
+299,Shreya,32,F,Siddheshwari,Smartphones & Social Media,300.0,1.5
+300,Sajidul,36,M,Bashabo,Multitasking,300.0,22.5
+301,Shamita,35,F,Wari,Lack of Sleep & Poor Health,75.0,45.0
+302,Ritoban,40,M,Jigatola,Multitasking,180.0,1.5
+303,Pritha,31,F,Dhanmondi,Relationship,180.0,10.0
+304,Raktim,31,M,Gulistan,Lack of Goal Clarity,180.0,45.0
+305,Manisha,43,F,Ramna,Lack of Goal Clarity,300.0,22.5
+306,Avik,17,M,Secretariat,Lack of Sleep & Poor Health,180.0,1.5
+307,Anwesha,17,F,Jatrabari,Smartphones & Social Media,75.0,22.5
+308,Shishir,16,F,Bailey Road,Stress & Anxiety,180.0,45.0
+309,Tithi,18,F,Malibagh,Smartphones & Social Media,180.0,1.5
+310,Debaditya,16,F,Bashabo,Stress & Anxiety,180.0,45.0
+311,Ananya,19,F,Khilgaon,Lack of Goal Clarity,180.0,10.0
+312,Rishav,17,M,Siddheshwari,Lack of Goal Clarity,180.0,22.5
+313,Sanchita,16,F,Wari,Family Problems,180.0,1.5
+314,Tanmay,17,M,Dhanmondi,Multitasking,75.0,22.5
+315,Rumana,16,F,Jigatola,Lack of Sleep & Poor Health,75.0,45.0
+316,Shovon,26,F,Gulistan,Relationship,75.0,4.0
+317,Kanak,24,F,Ramna,Relationship,75.0,22.5
+318,Ravik,22,F,Secretariat,Smartphones & Social Media,300.0,1.5
+319,Moumita,23,F,Jatrabari,Smartphones & Social Media,75.0,45.0
+320,Anirban,29,M,Bailey Road,Lack of Sleep & Poor Health,75.0,10.0
+321,Tuhina,15,F,Malibagh,Family Problems,75.0,1.5
+322,Riyaz,17,M,Bashabo,Lack of Sleep & Poor Health,75.0,45.0
+323,Shreyashi,19,F,Khilgaon,Multitasking,180.0,22.5
+324,Jishnu,22,F,Siddheshwari,Lack of Sleep & Poor Health,420.0,1.5
+325,Arghya,23,F,Wari,Lack of Goal Clarity,180.0,1.5
+326,Nabid,55,M,Dhanmondi,Smartphones & Social Media,75.0,22.5
+327,Sayeda,43,F,Jigatola,Multitasking,75.0,45.0
+328,Rohan,34,M,Gulistan,Lack of Goal Clarity,180.0,10.0
+329,Pratik,14,M,Ramna,Lack of Sleep & Poor Health,180.0,1.5
+330,Subhra,16,F,Secretariat,Smartphones & Social Media,75.0,22.5
+331,Nishat,14,F,Jatrabari,Multitasking,300.0,45.0
+332,Rajib,19,M,Bailey Road,Family Problems,,1.5
+333,Mousumi,10,F,Malibagh,Stress & Anxiety,180.0,45.0
+334,Tanvirul,15,M,Bashabo,Family Problems,420.0,22.5
+335,Rishabh,10,M,Khilgaon,Stress & Anxiety,180.0,1.5
+336,Arin,17,M,Siddheshwari,Stress & Anxiety,75.0,22.5
+337,Shuvendu,21,M,Wari,Family Problems,75.0,45.0
+338,Debosmita,20,F,Dhanmondi,Family Problems,75.0,1.5
+339,Arun,21,M,Jigatola,Lack of Goal Clarity,180.0,1.5
+340,Shouvik,20,M,Gulistan,Smartphones & Social Media,300.0,22.5
+341,Rahim,17,M,Ramna,Smartphones & Social Media,180.0,45.0
+342,Piyal,16,M,Secretariat,Relationship,300.0,10.0
+343,Ratul,17,M,Jatrabari,Stress & Anxiety,75.0,4.0
+344,Ashik,18,M,Bailey Road,Relationship,75.0,22.5
+345,Parul,18,F,Malibagh,Multitasking,180.0,1.5
+346,Shuvra,19,F,Bashabo,Multitasking,420.0,45.0
+347,Anwita,16,F,Khilgaon,Lack of Sleep & Poor Health,75.0,22.5
+348,Rupayan,18,M,Siddheshwari,Lack of Sleep & Poor Health,420.0,1.5
+349,Ranjan,20,M,Wari,Relationship,420.0,45.0
+350,Saikat,20,M,Dhanmondi,Smartphones & Social Media,180.0,1.5
+351,Sristi,24,F,Jigatola,Multitasking,180.0,22.5
+352,Pranab,22,M,Gulistan,Lack of Goal Clarity,75.0,45.0
+353,Isha,23,F,Ramna,Lack of Sleep & Poor Health,75.0,10.0
+354,Debraj,27,M,Secretariat,Multitasking,300.0,22.5
+355,Shovonika,29,F,Jatrabari,Relationship,,45.0
+356,Ritam,25,M,Bailey Road,Lack of Sleep & Poor Health,180.0,1.5
+357,Arif,34,M,Malibagh,Multitasking,180.0,1.5
+358,Anik,21,M,Bashabo,Multitasking,75.0,22.5
+359,Ashfaq,22,M,Khilgaon,Stress & Anxiety,180.0,45.0
+360,Atif,21,M,Siddheshwari,Smartphones & Social Media,75.0,4.0
+361,Bikash,19,M,Wari,Lack of Sleep & Poor Health,420.0,45.0
+362,Chayan,23,M,Dhanmondi,Smartphones & Social Media,180.0,22.5
+363,Debashis,27,M,Jigatola,Relationship,75.0,1.5
+364,Dipankar,24,M,Gulistan,Smartphones & Social Media,420.0,22.5
+365,Ehsan,29,M,Ramna,Lack of Sleep & Poor Health,75.0,45.0
+366,Fahim,24,M,Secretariat,Smartphones & Social Media,420.0,10.0
+367,Farhad,24,M,Jatrabari,Lack of Sleep & Poor Health,300.0,1.5
+368,Gias,222,M,Bailey Road,Lack of Sleep & Poor Health,180.0,22.5
+369,Habibur,21,M,Malibagh,Lack of Goal Clarity,180.0,45.0
+370,Himel,22,M,Bashabo,Lack of Sleep & Poor Health,180.0,1.5
+371,Imran,22,M,Khilgaon,Smartphones & Social Media,540.0,22.5
+372,Irfan,23,M,Siddheshwari,Relationship,75.0,45.0
+373,Jalal,23,M,Wari,Stress & Anxiety,300.0,4.0
+374,Kamal,23,M,Dhanmondi,Lack of Sleep & Poor Health,75.0,22.5
+375,Karim,23,M,Jigatola,Relationship,420.0,45.0
+376,Liton,27,M,Gulistan,Smartphones & Social Media,180.0,1.5
+377,Mahbub,28,M,Ramna,Lack of Sleep & Poor Health,180.0,1.5
+378,Mahfuz,28,M,Secretariat,Lack of Sleep & Poor Health,180.0,22.5
+379,Nayeem,22,M,Jatrabari,Lack of Goal Clarity,75.0,45.0
+380,Nazmul,21,M,Bailey Road,Smartphones & Social Media,300.0,4.0
+381,Nurul,23,M,Malibagh,Family Problems,420.0,45.0
+382,Pradip,25,M,Bashabo,Multitasking,540.0,22.5
+383,Rafiq,24,M,Khilgaon,Smartphones & Social Media,180.0,1.5
+384,Rakesh,27,M,Siddheshwari,Lack of Sleep & Poor Health,300.0,22.5
+385,Rashid,26,M,Wari,Smartphones & Social Media,75.0,45.0
+386,Rezaul,21,M,Dhanmondi,Stress & Anxiety,180.0,1.5
+387,Saif,22,M,Jigatola,Multitasking,420.0,45.0
+388,Sajid,26,M,Gulistan,Lack of Goal Clarity,300.0,22.5
+389,Samir,28,M,Ramna,Multitasking,180.0,10.0
+390,Sanjoy,29,M,Secretariat,Smartphones & Social Media,540.0,1.5
+391,Shaheen,24,M,Jatrabari,Smartphones & Social Media,180.0,22.5
+392,Shahid,33,M,Bailey Road,Stress & Anxiety,300.0,45.0
+393,Shahriar,34,M,Malibagh,Stress & Anxiety,420.0,1.5
+394,Shuvro,31,M,Bashabo,Lack of Sleep & Poor Health,420.0,45.0
+395,Suman,31,M,Khilgaon,Stress & Anxiety,300.0,22.5
+396,Tariq,30,M,Siddheshwari,Relationship,,10.0
+397,Tanvir,30,M,Wari,Smartphones & Social Media,420.0,22.5
+398,Tushar,32,M,Dhanmondi,Lack of Sleep & Poor Health,,45.0
+399,Yasin,21,M,Jigatola,Family Problems,180.0,1.5
+400,Zahid,21,M,Gulistan,Lack of Goal Clarity,180.0,45.0
+401,Zubair,37,M,Ramna,Stress & Anxiety,180.0,22.5
+402,Rupak,38,M,Secretariat,Lack of Goal Clarity,75.0,1.5
+403,Ritwick,36,M,Jatrabari,Stress & Anxiety,75.0,22.5
+404,Raimon,37,M,Bailey Road,Relationship,75.0,45.0
+405,Afsana,33,F,Malibagh,Smartphones & Social Media,540.0,4.0
+406,Anwesha,33,F,Bashabo,Smartphones & Social Media,180.0,22.5
+407,Arifa,32,F,Khilgaon,Relationship,75.0,45.0
+408,Basanti,32,F,Siddheshwari,Multitasking,75.0,1.5
+409,Bipasha,35,F,Wari,Smartphones & Social Media,180.0,22.5
+410,Chandana,34,F,Dhanmondi,Smartphones & Social Media,180.0,45.0
+411,Debika,35,F,Jigatola,Smartphones & Social Media,75.0,10.0
+412,Diya,39,F,Gulistan,Lack of Goal Clarity,180.0,1.5
+413,Farzana,40,F,Ramna,Lack of Sleep & Poor Health,180.0,22.5
+414,Faria,42,F,Secretariat,Smartphones & Social Media,75.0,45.0
+415,Gargi,44,F,Jatrabari,Stress & Anxiety,75.0,1.5
+416,Hasina,42,F,Bailey Road,Family Problems,540.0,45.0
+417,Hena,47,F,Malibagh,Stress & Anxiety,75.0,22.5
+418,Indira,48,F,Bashabo,Smartphones & Social Media,75.0,1.5
+419,Jannat,43,F,Khilgaon,Stress & Anxiety,180.0,45.0
+420,Koli,44,F,Siddheshwari,Smartphones & Social Media,75.0,22.5
+421,Lamia,44,F,Wari,Family Problems,75.0,10.0
+422,Mahjabeen,46,F,Dhanmondi,Lack of Sleep & Poor Health,180.0,22.5
+423,Maleka,48,F,Jigatola,Family Problems,,45.0
+424,Mita,44,F,Gulistan,Smartphones & Social Media,75.0,1.5
+425,Nazia,43,F,Ramna,Relationship,75.0,45.0
+426,Nila,48,F,Secretariat,Smartphones & Social Media,75.0,22.5
+427,Parveen,42,F,Jatrabari,Lack of Sleep & Poor Health,180.0,1.5
+428,Purnima,30,F,Bailey Road,Relationship,420.0,22.5
+429,Rina,31,F,Malibagh,Multitasking,180.0,45.0
+430,Rokeya,24,F,Bashabo,Smartphones & Social Media,180.0,10.0
+431,Rumki,22,F,Khilgaon,Smartphones & Social Media,300.0,4.0
+432,Sabiha,17,F,Siddheshwari,Multitasking,,22.5
+433,Sadia,18,F,Wari,Relationship,300.0,45.0
+434,Salma,17,F,Dhanmondi,Stress & Anxiety,75.0,1.5
+435,Sanjida,18,F,Jigatola,Smartphones & Social Media,180.0,45.0
+436,Shamima,16,F,Gulistan,Stress & Anxiety,420.0,22.5
+437,Shapla,17,F,Ramna,Multitasking,180.0,1.5
+438,Sharmila,28,F,Secretariat,Stress & Anxiety,75.0,45.0
+439,Shirin,23,F,Jatrabari,Stress & Anxiety,180.0,10.0
+440,Shoma,22,F,DHanmondi,Smartphones & Social Media,180.0,22.5
+441,Sonia,25,F,Dhanmondi,Stress & Anxiety,420.0,45.0
+442,Subarna,24,F,Ramna,Multitasking,180.0,1.5
+443,Sultana,22,F,Bashabo,Lack of Sleep & Poor Health,180.0,1.5
+444,Sumaiya,22,F,Khilgaon,Lack of Sleep & Poor Health,300.0,22.5
+445,Tania,28,F,Bailey Road,Smartphones & Social Media,180.0,45.0
+446,Taslima,28,F,Malibagh,Lack of Sleep & Poor Health,75.0,4.0
+447,Trisha,29,F,Siddheshwari,Lack of Goal Clarity,420.0,45.0
+448,Usha,17,F,Secretariat,Smartphones & Social Media,75.0,22.5
+449,Yasmin,15,F,Gulistan,Family Problems,,1.5
+450,Zakia,27,F,Jatrabari,Multitasking,540.0,22.5
+451,Zeenat,21,F,Wari,Lack of Sleep & Poor Health,75.0,45.0
+452,Rupsha,20,F,Motijheel,Multitasking,180.0,10.0
+453,Ritika,28,F,Tejgaon,Stress & Anxiety,180.0,1.5
+454,Minara,23,F,Farmgate,Stress & Anxiety,420.0,22.5
+455,Armaan,22,F,Mohammadpur,Stress & Anxiety,75.0,45.0
+456,Rayhan,21,M,Shahbagh,Relationship,75.0,1.5
+457,Tawsif,25,M,Motijheel,Smartphones & Social Media,300.0,22.5
+458,Shahin,29,M,Tejgaon,Stress & Anxiety,75.0,45.0
+459,Moinul,25,M,Farmgate,Stress & Anxiety,,4.0
+460,Tanmoy,16,M,Mohammadpur,Stress & Anxiety,180.0,22.5
+461,Rohit,31,M,Shahbagh,Family Problems,75.0,1.5
+462,Rayan,21,M,Motijheel,Multitasking,300.0,45.0
+463,Ayaan,27,M,Tejgaon,Lack of Goal Clarity,75.0,1.5
+464,Ishaan,31,M,Farmgate,Relationship,180.0,10.0
+465,Ansh,31,M,Mohammadpur,Lack of Sleep & Poor Health,420.0,45.0
+466,Kabir,37,M,Shahbagh,Lack of Sleep & Poor Health,75.0,22.5
+467,Devansh,34,M,Jigatola,Lack of Goal Clarity,75.0,1.5
+468,Shaurya,38,M,Dhanmondi,Lack of Sleep & Poor Health,420.0,4.0
+469,Rishabh,30,M,Ramna,Smartphones & Social Media,,45.0
+470,Vivaan,27,M,Bashabo,Stress & Anxiety,180.0,1.5
+471,Krish,23,M,Khilgaon,Multitasking,300.0,22.5
+472,Aryan,20,M,Bailey Road,Smartphones & Social Media,75.0,45.0
+473,Aditya,20,M,Malibagh,Relationship,420.0,1.5
+474,Neil,21,M,Siddheshwari,Stress & Anxiety,75.0,22.5
+475,Nathan,24,M,Secretariat,Multitasking,540.0,45.0
+476,Aarush,23,M,Gulistan,Smartphones & Social Media,180.0,4.0
+477,Abrar,18,M,Jatrabari,Lack of Goal Clarity,180.0,22.5
+478,Mahin,22,M,Wari,Smartphones & Social Media,180.0,1.5
+479,Sohana,25,F,Motijheel,Smartphones & Social Media,75.0,45.0
+480,Joydeep,19,M,Tejgaon,Relationship,75.0,1.5
+481,Adnan,21,M,Farmgate,Lack of Sleep & Poor Health,420.0,22.5
+482,Farzana,27,F,Mohammadpur,Smartphones & Social Media,300.0,45.0
+483,Tanjina,23,F,Shahbagh,Lack of Goal Clarity,300.0,10.0
+484,Koushik,20,M,Tejgaon,Smartphones & Social Media,420.0,1.5
+485,Tanvir,32,M,Motijheel,Lack of Sleep & Poor Health,180.0,22.5
+486,Moumita,24,F,Shahbagh,Smartphones & Social Media,180.0,45.0
+487,Ehsan,29,M,Jatrabari,Multitasking,180.0,1.5
+488,Rafi,26,M,Mohammadpur,Stress & Anxiety,75.0,45.0
+489,Tamanna,18,F,Farmgate,Lack of Sleep & Poor Health,75.0,22.5
+490,Hasan,33,M,Ramna,Smartphones & Social Media,420.0,4.0
+491,Rafiq,22,F,Motijheel,Lack of Sleep & Poor Health,540.0,1.5
+492,Nabila,28,F,Bailey Road,Family Problems,75.0,22.5
+493,Rupsha,19,F,Farmgate,Smartphones & Social Media,180.0,45.0
+494,Anindya,35,F,Shahbagh,Family Problems,300.0,1.5
+495,Mehedi,24,F,Khilgaon,Lack of Sleep & Poor Health,75.0,10.0
+496,Rituparna,20,F,Mohammadpur,Smartphones & Social Media,75.0,45.0
+497,Ashfaq,30,M,Tejgaon,Stress & Anxiety,300.0,22.5
+498,Ishita,27,F,Shahbagh,Family Problems,300.0,1.5
+499,Afsana,21,F,Wari,Multitasking,180.0,22.5
+500,Nazmul,23,M,Secretariat,Lack of Goal Clarity,300.0,45.0
+501,Nusrat,25,F,Motijheel,Lack of Sleep & Poor Health,180.0,1.5
+502,Sayeed,31,M,Malibagh,Lack of Goal Clarity,75.0,45.0
+503,Priyanka,28,F,Farmgate,Multitasking,180.0,10.0
+504,Rayan,19,M,Dhanmondi,Family Problems,75.0,22.5
+505,Neha,34,F,Motijheel,Family Problems,300.0,1.5
+506,Jishan,22,M,Gulistan,Smartphones & Social Media,180.0,22.5
+507,Saikat,20,M,Tejgaon,Multitasking,75.0,45.0
+508,Shreya,29,F,Bashabo,Relationship,180.0,4.0
+509,Rafiul,26,M,Farmgate,Lack of Goal Clarity,300.0,22.5
+510,Tania,33,F,Mohammadpur,Lack of Goal Clarity,300.0,1.5
+511,Farhad,23,M,Siddheshwari,Stress & Anxiety,75.0,45.0
+512,Lamiya,24,F,Tejgaon,Multitasking,180.0,10.0
+513,Soumik,18,M,Jigatola,Smartphones & Social Media,180.0,1.5
+514,Nila,35,F,Shahbagh,Stress & Anxiety,,45.0
+515,Rayhan,27,M,Mohammadpur,Lack of Sleep & Poor Health,75.0,22.5
+516,Ishrak,19,M,Motijheel,Stress & Anxiety,75.0,1.5
+517,Anika,28,F,Bailey Road,Multitasking,75.0,1.5
+518,Arpan,21,M,Farmgate,Lack of Sleep & Poor Health,,22.5
+519,Shuvo,25,M,Shahbagh,Smartphones & Social Media,180.0,45.0
+520,Faria,30,M,Tejgaon,Smartphones & Social Media,180.0,10.0
+521,Sharmin,24,F,Jatrabari,Lack of Goal Clarity,75.0,1.5
+522,Tuhina,26,F,Motijheel,Stress & Anxiety,300.0,22.5
+523,Tawsif,22,M,Mohammadpur,Lack of Sleep & Poor Health,300.0,45.0
+524,Oishee,23,F,Ramna,Multitasking,180.0,1.5
+525,Shahin,32,M,Farmgate,Stress & Anxiety,540.0,45.0
+526,Rifat,20,M,Shahbagh,Lack of Goal Clarity,420.0,22.5
+527,Mahjabeen,27,M,Motijheel,Multitasking,180.0,1.5
+528,Anurag,19,M,Tejgaon,Stress & Anxiety,180.0,22.5
+529,Fariha,31,F,Dhanmondi,Stress & Anxiety,180.0,45.0
+530,Rizwan,25,M,Malibagh,Stress & Anxiety,180.0,1.5
+531,Ananya,29,F,Farmgate,Stress & Anxiety,75.0,1.5
+532,Arham,22,M,Motijheel,Stress & Anxiety,180.0,22.5
+533,Rishita,33,F,Mohammadpur,Family Problems,300.0,45.0
+534,Shoaib,18,M,Khilgaon,Family Problems,180.0,10.0
+535,Sultana,24,F,Shahbagh,Multitasking,75.0,4.0
+536,Iqbal,26,M,Gulistan,Family Problems,180.0,22.5
+537,Trisha,19,F,Tejgaon,Multitasking,75.0,1.5
+538,Isha,30,F,Farmgate,Smartphones & Social Media,180.0,45.0
+539,Avik,21,M,Motijheel,Relationship,300.0,22.5
+540,Hasanuzzaman,23,F,Bashabo,Lack of Sleep & Poor Health,180.0,1.5
+541,Jannat,25,F,Mohammadpur,Stress & Anxiety,75.0,45.0
+542,Abir,27,M,Wari,Relationship,75.0,1.5
+543,Fardin,20,M,Shahbagh,Stress & Anxiety,75.0,22.5
+544,Rukhsar,34,M,Tejgaon,Smartphones & Social Media,75.0,45.0
+545,Subhajit,22,M,Farmgate,Relationship,75.0,10.0
+546,Niloy,29,M,Motijheel,Smartphones & Social Media,75.0,22.5
+547,Tuba,28,F,Bailey Road,Relationship,180.0,45.0
+548,Tahmid,19,M,Mohammadpur,Relationship,180.0,1.5
+549,Monir,24,M,Ramna,Relationship,300.0,1.5
+550,Rupam,26,M,Farmgate,Stress & Anxiety,75.0,22.5
+551,Ria,23,F,Shahbagh,Relationship,,45.0
+552,Ayman,21,M,Motijheel,Lack of Sleep & Poor Health,180.0,4.0
+553,Zaman,20,M,Tejgaon,Smartphones & Social Media,180.0,45.0
+554,Saima,27,F,Siddheshwari,Smartphones & Social Media,75.0,22.5
+555,Hridi,31,F,Mohammadpur,Lack of Goal Clarity,300.0,1.5
+556,Mahmud,25,M,Motijheel,Lack of Sleep & Poor Health,300.0,22.5
+557,Dipankar,33,M,Farmgate,Lack of Goal Clarity,75.0,45.0
+558,Mahira,19,F,Shahbagh,Stress & Anxiety,,10.0
+559,Tisha,28,F,Jigatola,Smartphones & Social Media,180.0,1.5
+560,Sohini,22,F,Tejgaon,Lack of Sleep & Poor Health,180.0,22.5
+561,Riaz,23,F,Mohammadpur,Stress & Anxiety,75.0,45.0
+562,Ayesha,30,F,Farmgate,Smartphones & Social Media,540.0,1.5
+563,Anika,24,F,Shahbagh,Relationship,75.0,22.5
+564,Rukeya,32,F,Motijheel,Stress & Anxiety,75.0,45.0
+565,Sumon,26,M,Tejgaon,Smartphones & Social Media,540.0,4.0
+566,Kanak,20,M,Bailey Road,Multitasking,180.0,22.5
+567,Alisha,29,F,Farmgate,Smartphones & Social Media,75.0,45.0
+568,Rajib,18,M,Motijheel,Multitasking,75.0,1.5
+569,Nafisa,27,F,Mohammadpur,Stress & Anxiety,180.0,1.5
+570,Tanisha,21,F,Shahbagh,Stress & Anxiety,300.0,22.5
+571,Sadiya,23,F,Ramna,Lack of Sleep & Poor Health,75.0,45.0
+572,Soham,25,F,Tejgaon,Lack of Sleep & Poor Health,75.0,4.0
+573,Rubel,19,M,Farmgate,Smartphones & Social Media,75.0,45.0
+574,Mou,24,F,Motijheel,Smartphones & Social Media,75.0,22.5
+575,Nishat,26,F,Mohammadpur,Stress & Anxiety,75.0,1.5
+576,Rifat,33,M,Wari,Smartphones & Social Media,300.0,22.5
+577,Mahinur,22,M,Shahbagh,Smartphones & Social Media,75.0,45.0
+578,Kabir,28,M,Motijheel,Lack of Goal Clarity,75.0,1.5
+579,Parvez,31,M,Farmgate,Multitasking,180.0,45.0
+580,Saad,20,M,Tejgaon,Lack of Sleep & Poor Health,300.0,22.5
+581,Rini,25,F,Mohammadpur,Stress & Anxiety,75.0,10.0
+582,Taslima,19,F,Bashabo,Smartphones & Social Media,180.0,1.5
+583,Shamim,27,M,Farmgate,Lack of Sleep & Poor Health,75.0,22.5
+584,Sakib,29,M,Motijheel,Lack of Goal Clarity,180.0,45.0
+585,Shama,24,F,Shahbagh,Stress & Anxiety,180.0,1.5
+586,Arindam,18,M,Tejgaon,Family Problems,180.0,45.0
+587,Shaila,23,F,Gulistan,Stress & Anxiety,300.0,22.5
+588,Nafees,21,M,Farmgate,Stress & Anxiety,180.0,10.0
+589,Manisha,22,F,Motijheel,Multitasking,300.0,22.5
+590,Fahim,30,M,Mohammadpur,Smartphones & Social Media,75.0,45.0
+591,Mahfuz,25,M,Tejgaon,Smartphones & Social Media,300.0,1.5
+592,Zinia,26,M,Farmgate,Family Problems,180.0,45.0
+593,Anirban,20,M,Shahbagh,Smartphones & Social Media,180.0,22.5
+594,Tanushree,32,F,Motijheel,Smartphones & Social Media,420.0,1.5
+595,Shahriar,27,M,Bailey Road,Relationship,75.0,22.5
+596,Rahim,28,M,Mohammadpur,Lack of Goal Clarity,180.0,45.0
+597,Ankita,24,R,Tejgaon,Smartphones & Social Media,75.0,4.0
+598,Sajid,23,M,Farmgate,Smartphones & Social Media,180.0,22.5
+599,Prova,19,F,Motijheel,Stress & Anxiety,300.0,45.0
+600,Foysal,22,M,Shahbagh,Stress & Anxiety,,1.5
+601,Sanchita,31,F,Ramna,Stress & Anxiety,,22.5
+602,Afnan,21,M,Tejgaon,Smartphones & Social Media,180.0,45.0
+603,Rumi,20,F,Mohammadpur,Lack of Goal Clarity,540.0,10.0
+604,Debashis,25,M,Farmgate,Relationship,75.0,1.5
+605,Emon,27,M,Motijheel,Multitasking,75.0,22.5
+606,Parul,26,F,Shahbagh,Lack of Sleep & Poor Health,300.0,45.0
+607,Ilias,18,F,Dhanmondi,Stress & Anxiety,180.0,1.5
+608,Minara,29,F,Tejgaon,Smartphones & Social Media,75.0,45.0
+609,Sayma,33,F,Motijheel,Multitasking,420.0,22.5
+610,Tasmia,22,F,Farmgate,Relationship,300.0,1.5
+611,Rakib,30,M,Mohammadpur,Lack of Sleep & Poor Health,75.0,45.0
+612,Nusrita,19,F,Shahbagh,Family Problems,180.0,22.5
+613,Nazifa,28,F,Motijheel,Lack of Sleep & Poor Health,75.0,10.0
+614,Rimon,23,M,Tejgaon,Smartphones & Social Media,540.0,22.5
+615,Piyal,24,M,Farmgate,Multitasking,180.0,45.0
+616,Amrin,20,M,Jatrabari,Stress & Anxiety,75.0,1.5
+617,Anamika,25,F,Motijheel,Multitasking,75.0,45.0
+618,Miraz,26,M,Mohammadpur,Lack of Goal Clarity,180.0,22.5
+619,Nargis,27,M,Shahbagh,Lack of Goal Clarity,300.0,1.5
+620,Rumiya,32,F,Farmgate,Smartphones & Social Media,,22.5
+621,Arafat,29,M,Tejgaon,Stress & Anxiety,180.0,45.0
+622,Tasnim,21,F,Motijheel,Multitasking,180.0,10.0
+623,Sabiha,18,F,Mohammadpur,Stress & Anxiety,180.0,4.0
+624,Ritu,19,F,Shahbagh,Relationship,180.0,22.5
+625,Shafi,24,F,Khilgaon,Smartphones & Social Media,180.0,45.0
+626,Dipto,22,M,Farmgate,Smartphones & Social Media,180.0,1.5
+627,Nayeema,28,F,Motijheel,Lack of Sleep & Poor Health,540.0,45.0
+628,Moumita,25,F,Tejgaon,Smartphones & Social Media,420.0,22.5
+629,Rubina,26,F,Mohammadpur,Smartphones & Social Media,75.0,1.5
+630,Sabbir,30,M,Shahbagh,Relationship,180.0,45.0
+631,Sougata,20,F,Farmgate,Stress & Anxiety,75.0,10.0
+632,Samira,23,F,Motijheel,Relationship,420.0,22.5
+633,Imran,21,M,Tejgaon,Smartphones & Social Media,,45.0
+634,Iqra,33,F,Malibagh,Smartphones & Social Media,75.0,1.5
+635,Foysal,19,M,Farmgate,Lack of Sleep & Poor Health,180.0,1.5
+636,Rakesh,27,M,Mohammadpur,Lack of Goal Clarity,540.0,22.5
+637,Sneha,22,F,Shahbagh,Stress & Anxiety,75.0,45.0
+638,Habib,24,M,Motijheel,Family Problems,75.0,4.0
+639,Shanta,25,F,Tejgaon,Family Problems,420.0,45.0
+640,Saiful,28,M,Farmgate,Smartphones & Social Media,420.0,22.5
+641,Priya,31,F,Motijheel,Lack of Sleep & Poor Health,180.0,1.5
+642,Jannatul,20,F,Shahbagh,Family Problems,75.0,22.5
+643,Rakibul,26,M,Farmgate,Lack of Goal Clarity,420.0,45.0
+644,Farhana,18,F,Tejgaon,Stress & Anxiety,300.0,10.0
+645,Rituparno,29,F,Mohammadpur,Lack of Sleep & Poor Health,180.0,1.5
+646,Rajat,23,M,Bashabo,Smartphones & Social Media,300.0,22.5
+647,Naima,30,F,Farmgate,Family Problems,75.0,45.0
+648,Araf,24,M,Motijheel,Smartphones & Social Media,180.0,1.5
+649,Shaila,27,F,Shahbagh,Stress & Anxiety,420.0,22.5
+650,Tania,25,F,Tejgaon,Family Problems,180.0,45.0
+651,Faysal,19,M,Farmgate,Multitasking,75.0,4.0
+652,Jui,22,F,Mohammadpur,Multitasking,75.0,22.5
+653,Rezaul,20,M,Motijheel,Lack of Goal Clarity,180.0,1.5
+654,Anwara,28,F,Shahbagh,Lack of Goal Clarity,180.0,45.0
+655,Ayon,31,M,Tejgaon,Smartphones & Social Media,180.0,1.5
+656,Aparajita,21,F,Farmgate,Lack of Goal Clarity,540.0,10.0
+657,Sumaiya,23,F,Motijheel,Smartphones & Social Media,75.0,45.0
+658,Sadi,19,M,Mohammadpur,Relationship,180.0,22.5
+659,Munia,26,F,Shahbagh,Lack of Sleep & Poor Health,300.0,1.5
+660,Abeer,24,M,Shahbagh,Relationship,75.0,4.0
+661,Sharif,25,M,Motijheel,Stress & Anxiety,75.0,45.0
+662,Liza,27,F,Farmgate,Lack of Goal Clarity,75.0,1.5
+663,Nishith,32,F,Mohammadpur,Relationship,75.0,22.5
+664,Arif,30,M,Tejgaon,Family Problems,180.0,45.0
+665,Tamanna,22,F,Bashabo,Family Problems,180.0,1.5
+666,Mousumi,23,F,Farmgate,Lack of Sleep & Poor Health,300.0,22.5
+667,Asif,29,M,Motijheel,Stress & Anxiety,75.0,45.0
+668,Rida,18,F,Shahbagh,Stress & Anxiety,300.0,4.0
+669,Mahira,21,F,Tejgaon,Multitasking,180.0,22.5
+670,Jahid,26,M,Ramna,Relationship,180.0,1.5
+671,Tanveer,20,M,Mohammadpur,Smartphones & Social Media,180.0,45.0
+672,Rini,24,F,Farmgate,Multitasking,300.0,1.5
+673,Riya,25,F,Motijheel,Lack of Sleep & Poor Health,75.0,22.5
+674,Sultana,33,F,Tejgaon,Smartphones & Social Media,75.0,45.0
+675,Noman,19,M,Shahbagh,Relationship,540.0,10.0
+676,Anik,28,M,Jatrabari,Smartphones & Social Media,75.0,1.5
+677,Jahanara,27,F,Farmgate,Relationship,180.0,22.5
+678,Sourav,30,M,Motijheel,Lack of Sleep & Poor Health,75.0,45.0
+679,Tasfia,22,F,Mohammadpur,Smartphones & Social Media,300.0,1.5
+680,Ruksana,23,F,Bailey Road,Stress & Anxiety,300.0,45.0
+681,Nurul,31,M,Shahbagh,Smartphones & Social Media,75.0,22.5
+682,Ashik,21,M,Tejgaon,Relationship,75.0,4.0
+683,Borsha,26,F,Motijheel,Lack of Goal Clarity,75.0,1.5
+684,Rony,24,M,Farmgate,Relationship,180.0,22.5
+685,Tumpa,29,M,Mohammadpur,Lack of Goal Clarity,180.0,45.0
+686,Shohel,25,M,Dhanmondi,Stress & Anxiety,75.0,1.5
+687,Sumaya,19,F,Tejgaon,Lack of Sleep & Poor Health,75.0,10.0
+688,Mahmudul,20,M,Motijheel,Family Problems,75.0,45.0
+689,Isha,28,F,Shahbagh,Lack of Sleep & Poor Health,75.0,22.5
+690,Alvi,33,M,Farmgate,Family Problems,75.0,1.5
+691,Ayesha,22,F,Mohammadpur,Multitasking,180.0,22.5
+692,Riyad,27,M,Tejgaon,Smartphones & Social Media,180.0,45.0
+693,Raisa,23,F,Motijheel,Relationship,75.0,1.5
+694,Tanjil,24,M,Shahbagh,Relationship,180.0,45.0
+695,Rini,30,F,Farmgate,Multitasking,180.0,10.0
+696,Rakin,21,M,Jigatola,Multitasking,180.0,22.5
+697,Sharmistha,19,F,Tejgaon,Smartphones & Social Media,180.0,1.5
+698,Farzana,26,F,Motijheel,Lack of Sleep & Poor Health,75.0,22.5
+699,Irfan,25,M,Mohammadpur,Smartphones & Social Media,75.0,45.0
+700,Soniya,28,F,Farmgate,Stress & Anxiety,75.0,4.0
+701,Ayman,20,M,Shahbagh,Relationship,300.0,22.5
+702,Nasrin,29,M,Gulistan,Lack of Goal Clarity,420.0,1.5
+703,Aniruddha,32,M,Motijheel,Lack of Sleep & Poor Health,75.0,45.0
+704,Sabiha,24,F,Tejgaon,Multitasking,180.0,10.0
+705,Shuvo,27,M,Farmgate,Lack of Sleep & Poor Health,75.0,1.5
+706,Tithy,18,F,Mohammadpur,Relationship,180.0,45.0
+707,Saikat,22,M,Shahbagh,Relationship,,22.5
+708,Naureen,30,F,Motijheel,Relationship,420.0,1.5
+709,Hossain,25,M,Tejgaon,Lack of Sleep & Poor Health,300.0,1.5
+710,Mahfuzur,21,M,Farmgate,Lack of Goal Clarity,75.0,22.5
+711,Sraboni,23,F,Khilgaon,Stress & Anxiety,75.0,45.0
+712,Rubayat,28,M,Mohammadpur,Lack of Sleep & Poor Health,420.0,10.0
+713,Reza,26,M,Shahbagh,Stress & Anxiety,420.0,1.5
+714,Fatema,19,F,Motijheel,Relationship,75.0,22.5
+715,Srijon,20,M,Tejgaon,Smartphones & Social Media,300.0,45.0
+716,Orin,33,F,Farmgate,Family Problems,75.0,1.5
+717,Tasnia,22,F,Malibagh,Smartphones & Social Media,180.0,45.0
+718,Ovi,31,M,Mohammadpur,Family Problems,75.0,22.5
+719,Papia,24,F,Shahbagh,Lack of Goal Clarity,420.0,1.5
+720,Arifin,25,F,Motijheel,Stress & Anxiety,75.0,22.5
+721,Rukshana,27,F,Tejgaon,Lack of Goal Clarity,180.0,45.0
+722,Momin,19,M,Farmgate,Multitasking,75.0,1.5
+723,Asma,30,M,Mohammadpur,Lack of Sleep & Poor Health,300.0,1.5
+724,Rafiul,23,M,Shahbagh,Multitasking,300.0,22.5
+725,Subarna,29,F,Motijheel,Smartphones & Social Media,75.0,45.0
+726,Shamima,20,F,Tejgaon,Relationship,75.0,10.0
+727,Bithi,28,F,Siddheshwari,Lack of Sleep & Poor Health,180.0,4.0
+728,Arindita,21,F,Farmgate,Multitasking,180.0,22.5
+729,Tanzim,18,M,Motijheel,Family Problems,75.0,1.5
+730,Mahi,26,F,Mohammadpur,Relationship,180.0,45.0
+731,Shirin,22,M,Shahbagh,Family Problems,75.0,22.5
+732,Siam,25,M,Tejgaon,Lack of Sleep & Poor Health,75.0,1.5
+733,Minhaz,24,M,Motijheel,Relationship,75.0,45.0
+734,Nazia,27,F,Farmgate,Multitasking,300.0,1.5
+735,Imtiaz,31,M,Mohammadpur,Stress & Anxiety,300.0,22.5
+736,Sumi,23,F,Shahbagh,Multitasking,75.0,45.0
+737,Sazid,19,M,Ramna,Stress & Anxiety,75.0,10.0
+738,Sayeda,33,F,Motijheel,Family Problems,540.0,22.5
+739,Monira,20,F,Tejgaon,Smartphones & Social Media,300.0,45.0
+740,Tareq,29,M,Farmgate,Lack of Sleep & Poor Health,300.0,1.5
+741,Ananya,26,F,Shahbagh,Multitasking,75.0,1.5
+742,Sakina,24,F,Motijheel,Smartphones & Social Media,75.0,22.5
+743,Sabi,30,M,Mohammadpur,Multitasking,540.0,45.0
+744,Nahid,21,M,Jatrabari,Smartphones & Social Media,300.0,4.0
+745,Tumpa,25,F,Farmgate,Family Problems,180.0,45.0
+746,Rashed,27,M,Tejgaon,Smartphones & Social Media,75.0,22.5
+747,Jahan,19,M,Motijheel,Smartphones & Social Media,75.0,1.5
+748,Afia,28,F,Shahbagh,Stress & Anxiety,75.0,22.5
+749,Azfar,22,F,Farmgate,Relationship,,45.0
+750,Ruba,23,F,Mohammadpur,Stress & Anxiety,540.0,10.0
+751,Akram,20,M,Tejgaon,Relationship,180.0,1.5
+752,Lima,32,F,Motijheel,Lack of Sleep & Poor Health,75.0,22.5
+753,Faiz,25,M,Shahbagh,Family Problems,180.0,45.0
+754,Taslima,24,F,Farmgate,Relationship,420.0,1.5
+755,Rahi,26,F,Mohammadpur,Multitasking,75.0,22.5
+756,Mahira,18,F,Tejgaon,Lack of Goal Clarity,300.0,45.0
+757,Samiha,31,F,Motijheel,Smartphones & Social Media,420.0,4.0
+758,Jubayer,19,M,Shahbagh,Smartphones & Social Media,300.0,22.5
+759,Falguni,29,F,Farmgate,Family Problems,300.0,45.0
+760,Touhid,28,M,Bailey Road,Family Problems,540.0,1.5
+761,Amrin,21,M,Motijheel,Multitasking,75.0,1.5
+762,Sanzida,20,F,Tejgaon,Lack of Goal Clarity,300.0,22.5
+763,Mushfiq,27,M,Farmgate,Lack of Sleep & Poor Health,75.0,45.0
+764,Lopa,23,M,Mohammadpur,Lack of Sleep & Poor Health,,4.0
+765,Tarikul,30,M,Shahbagh,Relationship,420.0,45.0
+766,Asha,22,F,Motijheel,Smartphones & Social Media,540.0,22.5
+767,Faisal,24,M,Farmgate,Multitasking,75.0,1.5
+768,Ruma,33,F,Tejgaon,Lack of Sleep & Poor Health,75.0,22.5
+769,Mahbub,25,M,Dhanmondi,Stress & Anxiety,180.0,45.0
+770,Riyana,19,F,Shahbagh,Smartphones & Social Media,180.0,1.5
+771,Arko,26,M,Jigatola,Lack of Sleep & Poor Health,300.0,45.0
+772,Tuhin,27,M,Motijheel,Smartphones & Social Media,75.0,22.5
+773,Alisha,20,F,Ramna,Relationship,300.0,10.0
+774,Rihan,21,M,Farmgate,Stress & Anxiety,420.0,1.5
+775,Pritha,23,F,Bailey Road,Relationship,420.0,22.5
+776,Nafisa,22,F,Mohammadpur,Relationship,,45.0
+777,Zahid,30,M,Tejgaon,Smartphones & Social Media,300.0,1.5
+778,Riya,19,F,Malibagh,Smartphones & Social Media,75.0,45.0
+779,Omi,28,F,Shahbagh,Lack of Sleep & Poor Health,180.0,22.5
+780,Sruti,25,F,Gulistan,Family Problems,420.0,10.0
+781,Fariha,31,F,Motijheel,Lack of Sleep & Poor Health,540.0,22.5
+782,Arafi,24,F,Bashabo,Multitasking,180.0,45.0
+783,Rituparna,29,F,Tejgaon,Multitasking,75.0,1.5
+784,Anwar,20,M,Farmgate,Smartphones & Social Media,300.0,45.0
+785,Sohana,27,F,Wari,Multitasking,75.0,22.5
+786,Samiul,26,M,Secretariat,Lack of Sleep & Poor Health,180.0,1.5
+787,Sathi,23,F,Mohammadpur,Lack of Sleep & Poor Health,300.0,22.5
+788,Javed,21,M,Motijheel,Smartphones & Social Media,75.0,45.0
+789,Karishma,33,F,Siddheshwari,Smartphones & Social Media,300.0,4.0
+790,Rafi,22,M,Shahbagh,Lack of Sleep & Poor Health,540.0,22.5
+791,Saika,24,F,Jatrabari,Smartphones & Social Media,180.0,45.0
+792,Rubel,28,M,Farmgate,Lack of Goal Clarity,180.0,1.5
+793,Mim,19,F,Tejgaon,Stress & Anxiety,75.0,22.5
+794,Shahadat,25,M,Khilgaon,Smartphones & Social Media,75.0,45.0
+795,Raisa,30,F,Motijheel,Smartphones & Social Media,420.0,10.0
+796,Parvez,32,M,Dhanmondi,Family Problems,75.0,1.5
+797,Irin,20,F,Shahbagh,Lack of Goal Clarity,180.0,22.5
+798,Rakib,27,M,Bailey Road,Lack of Sleep & Poor Health,540.0,45.0
+799,Mahira,18,F,Farmgate,Family Problems,75.0,1.5
+800,Sadia,26,F,Mohammadpur,Relationship,75.0,45.0
+801,Aninda,29,F,Jigatola,Lack of Sleep & Poor Health,180.0,22.5
+802,Arisha,23,F,Tejgaon,Family Problems,180.0,1.5
+803,Faiyaz,22,M,Motijheel,Stress & Anxiety,300.0,45.0
+804,Nafisa,21,F,Shahbagh,Lack of Goal Clarity,,22.5
+805,Shadman,19,M,Ramna,Multitasking,75.0,10.0
+806,Afra,24,F,Farmgate,Lack of Goal Clarity,180.0,22.5
+807,Salman,25,M,Mohammadpur,Lack of Goal Clarity,75.0,45.0
+808,Oindrila,27,F,Shahbagh,Lack of Goal Clarity,180.0,1.5
+809,Sakib,20,M,Motijheel,Stress & Anxiety,180.0,45.0
+810,Joya,30,F,Tejgaon,Smartphones & Social Media,180.0,22.5
+811,Shohag,33,M,Malibagh,Smartphones & Social Media,75.0,1.5
+812,Nazifa,26,F,Farmgate,Stress & Anxiety,75.0,22.5
+813,Mahiya,28,F,Mohammadpur,Lack of Goal Clarity,180.0,45.0
+814,Zubair,19,M,Shahbagh,Stress & Anxiety,75.0,1.5
+815,Suhana,22,F,Bashabo,Stress & Anxiety,75.0,22.5
+816,Nishita,24,M,Tejgaon,Smartphones & Social Media,420.0,10.0
+817,Ashraful,21,M,Motijheel,Smartphones & Social Media,75.0,45.0
+818,Sristi,23,F,Farmgate,Stress & Anxiety,75.0,4.0
+819,Imran,27,M,Secretariat,Multitasking,180.0,1.5
+820,Monika,25,F,Shahbagh,Relationship,75.0,22.5
+821,Sajjad,29,M,Motijheel,Lack of Goal Clarity,,45.0
+822,Rini,20,F,Tejgaon,Family Problems,300.0,10.0
+823,Zahra,31,F,Gulistan,Relationship,300.0,1.5
+824,Rakibul,26,M,Farmgate,Lack of Sleep & Poor Health,75.0,45.0
+825,Rukhsar,19,M,Mohammadpur,Stress & Anxiety,75.0,22.5
+826,Rumana,33,F,Shahbagh,Smartphones & Social Media,180.0,1.5
+827,Hasan,24,M,Motijheel,Multitasking,300.0,4.0
+828,Tithi,22,F,Tejgaon,Stress & Anxiety,180.0,45.0
+829,Arpita,28,F,Farmgate,Lack of Sleep & Poor Health,75.0,1.5
+830,Adiba,23,F,Wari,Lack of Goal Clarity,300.0,22.5
+831,Faruq,27,M,Mohammadpur,Smartphones & Social Media,75.0,45.0
+832,Monira,21,F,Motijheel,Lack of Sleep & Poor Health,,10.0
+833,Riad,25,M,Shahbagh,Smartphones & Social Media,540.0,1.5
+834,Sanzida,20,F,Farmgate,Multitasking,180.0,22.5
+835,Arman,30,M,Tejgaon,Smartphones & Social Media,180.0,45.0
+836,Rupali,19,M,Malibagh,Lack of Sleep & Poor Health,420.0,4.0
+837,Tuhin,32,M,Motijheel,Multitasking,180.0,1.5
+838,Afia,22,F,Farmgate,Stress & Anxiety,300.0,45.0
+839,Firoz,23,F,Shahbagh,Family Problems,180.0,22.5
+840,Tanzila,27,F,Tejgaon,Family Problems,75.0,10.0
+841,Sakina,26,F,Mohammadpur,Lack of Goal Clarity,300.0,1.5
+842,Rubi,24,F,Bailey Road,Smartphones & Social Media,75.0,22.5
+843,Anwarul,25,M,Motijheel,Family Problems,300.0,45.0
+844,Rida,21,F,Farmgate,Smartphones & Social Media,300.0,1.5
+845,Subrata,29,F,Shahbagh,Lack of Goal Clarity,75.0,45.0
+846,Nahid,20,M,Tejgaon,Multitasking,180.0,22.5
+847,Ruksana,19,F,Motijheel,Smartphones & Social Media,75.0,4.0
+848,Afsana,33,F,Ramna,Smartphones & Social Media,75.0,1.5
+849,Tanzim,28,M,Farmgate,Lack of Sleep & Poor Health,180.0,22.5
+850,Mouri,24,M,Mohammadpur,Stress & Anxiety,180.0,45.0
+851,Rahim,22,M,Shahbagh,Lack of Sleep & Poor Health,75.0,10.0
+852,Priyanka,31,F,Motijheel,Multitasking,75.0,1.5
+853,Jalal,23,M,Tejgaon,Lack of Goal Clarity,75.0,22.5
+854,Rumi,26,F,Farmgate,Smartphones & Social Media,180.0,45.0
+855,Arifin,25,M,Siddheshwari,Relationship,300.0,4.0
+856,Koli,27,F,Mohammadpur,Family Problems,75.0,1.5
+857,Rezaul,19,M,Motijheel,Lack of Goal Clarity,180.0,45.0
+858,Sumi,21,F,Shahbagh,Multitasking,180.0,22.5
+859,Munmun,20,M,Farmgate,Smartphones & Social Media,75.0,10.0
+860,Fariha,30,F,Tejgaon,Smartphones & Social Media,75.0,1.5
+861,Oishee,22,F,Jigatola,Lack of Sleep & Poor Health,180.0,22.5
+862,Shafi,24,M,Motijheel,Relationship,75.0,45.0
+863,Anannya,23,F,Shahbagh,Stress & Anxiety,540.0,1.5
+864,Saiful,26,M,Farmgate,Lack of Goal Clarity,180.0,45.0
+865,Mousumi,29,F,Tejgaon,Relationship,180.0,22.5
+866,Javed,27,M,Mohammadpur,Smartphones & Social Media,75.0,4.0
+867,Naima,18,F,Bashabo,Lack of Sleep & Poor Health,180.0,1.5
+868,Ilias,25,M,Motijheel,Family Problems,300.0,22.5
+869,Mou,31,F,Farmgate,Lack of Sleep & Poor Health,75.0,45.0
+870,Sadaf,21,M,Shahbagh,Lack of Sleep & Poor Health,420.0,10.0
+871,Sabbir,19,M,Tejgaon,Smartphones & Social Media,180.0,1.5
+872,Arindam,22,M,Motijheel,Relationship,180.0,22.5
+873,Tamal,28,M,Farmgate,Smartphones & Social Media,75.0,45.0
+874,Taniya,20,F,Mohammadpur,Smartphones & Social Media,75.0,4.0
+875,Tashfia,24,F,Shahbagh,Smartphones & Social Media,180.0,1.5
+876,Rimon,23,M,Tejgaon,Stress & Anxiety,75.0,45.0
+877,Adrita,33,F,Motijheel,Stress & Anxiety,180.0,22.5
+878,Samiha,25,F,Farmgate,Stress & Anxiety,180.0,10.0
+879,Rumiya,26,M,Shahbagh,Smartphones & Social Media,300.0,1.5
+880,Mahin,30,M,Motijheel,Stress & Anxiety,180.0,22.5
+881,Tanvirul,27,M,Tejgaon,Relationship,75.0,45.0
+882,Iqra,19,F,Mohammadpur,Lack of Goal Clarity,180.0,1.5
+883,Rubina,29,F,Farmgate,Relationship,180.0,45.0
+884,Riaz,21,M,Shahbagh,Smartphones & Social Media,180.0,22.5
+885,Arafat,22,M,Motijheel,Family Problems,75.0,4.0
+886,Tuhin,24,M,Tejgaon,Stress & Anxiety,180.0,1.5
+887,Ayesha,20,F,Farmgate,Multitasking,420.0,22.5
+888,Sahana,23,F,Mohammadpur,Smartphones & Social Media,75.0,45.0
+889,Jishan,28,M,Shahbagh,Lack of Sleep & Poor Health,180.0,10.0
+890,Sraboni,26,F,Motijheel,Multitasking,180.0,1.5
+891,Tahmid,25,M,Tejgaon,Multitasking,75.0,22.5
+892,Shirin,30,M,Farmgate,Multitasking,75.0,45.0
+893,Nayeem,27,M,Gulistan,Family Problems,180.0,4.0
+894,Priya,19,F,Mohammadpur,Multitasking,180.0,1.5
+895,Arko,32,M,Shahbagh,Smartphones & Social Media,75.0,45.0
+896,Sumaiya,24,F,Motijheel,Stress & Anxiety,180.0,22.5

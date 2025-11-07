@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+package attention_span_data;
+
+enum LowAttentionReason {
+		LOW_ATTENTION_REASON_UNSPECIFIED = 0; // default value
+	  FAMILY_PROBLEMS = 1;
+	  LACK_OF_SLEEP_AND_POOR_HEALTH = 2;
+	  MULTITASKING = 3;
+	  STRESS_AND_ANXIETY = 4;
+	  RELATIONSHIP = 5;
+	  SMARTPHONES_AND_SOCIAL_MEDIA = 6;
+	  LACK_OF_GOAL_CLARITY = 7;
+}
+
+message UserAttention {
+	string Name = 1;
+	int64 Age = 2;
+	string Gender = 3;
+	string Residence = 4;
+	LowAttentionReason Reason_las = 5;
+	float Screentime = 6;
+	float Attention_Span = 7;
+}
