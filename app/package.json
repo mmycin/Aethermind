@@ -10,14 +10,19 @@
   },
   "dependencies": {
     "@duckdb/duckdb-wasm": "^1.30.0",
+    "@tailwindcss/vite": "^4.1.17",
     "chart.js": "^4.5.1",
     "chartjs-adapter-date-fns": "^3.0.0",
     "cypress": "^15.6.0",
     "solid-js": "^1.9.9",
+    "tailwindcss": "^4.1.17",
     "ts-proto": "^2.8.3"
   },
   "devDependencies": {
+    "@types/eslint__eslintrc": "^3.3.0",
     "@types/node": "^24.6.0",
+    "eslint": "^8",
+    "prettier": "^3.6.2",
     "typescript": "~5.9.3",
     "vite": "npm:rolldown-vite@7.1.14",
     "vite-plugin-solid": "^2.11.8"
