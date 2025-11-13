@@ -323,7 +323,7 @@ function App() {
               Attention Span Distribution Across Screen Time Categories
             </h3>
             <div class="w-full min-h-[280px]">
-              <BarChart title="" data={screenCategories} height="h-full" />
+              <BarChart title="" data={screenCategories} height="h-full" xAxisLabel='Hours' yAxisLabel='Age Group'/>
             </div>
             <p class="text-sm text-cyan-300/80 mt-4">
               Heavy screen use (6+ hours) correlates with 18% lower attention metrics. Optimal range: 2-4 hours daily.
