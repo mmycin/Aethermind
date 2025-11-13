@@ -34,8 +34,8 @@ export const MultiBarChart = (props: MultiBarChartProps) => {
     const ctx = canvasRef.getContext('2d');
     if (!ctx) return;
 
-    // Generate default colors
-    const defaultColors = ['#00D9FF', '#00B8D9', '#0097B3', '#00768C', '#005566', '#0B4A5F'];
+    // Generate default colors (violet/cyan/indigo palette)
+    const defaultColors = ['#8B5CF6', '#22D3EE', '#60A5FA', '#A78BFA', '#06B6D4', '#3B82F6'];
 
     // ✅ FIXED: Correct typing for barThickness ("flex" | number | undefined)
     const chartDatasets = props.datasets.map((dataset, index) => ({

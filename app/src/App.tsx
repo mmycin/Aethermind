@@ -3,14 +3,20 @@ import { agegroup_stats } from '../data/analytics/agegroup_stats';
 import { gender_counts } from '../data/analytics/gender_counts';
 import { reason_stats } from '../data/analytics/reason_stats';
 import { zone_distribution } from '../data/analytics/zone_distribution';
+import { gender_reason_counts } from '../data/analytics/gender_reason_counts';
+import { agegroup_reason_counts } from '../data/analytics/agegroup_reason_counts';
 import { InfoCardGrid } from './components/cards/InfoCard';
+import { StatCard } from './components/cards/StatCard';
+import NavBar from './components/layout/NavBar';
+import Hero from './components/hero/Hero';
 import { BarChart } from './components/charts/Barchart';
 import { DoughnutChart } from './components/charts/DoughChart';
 import { LineChart } from './components/charts/LineChart';
+import { MultiBarChart } from './components/charts/MultiBarChart';
 
 function App() {
   /* -------------------------------------------------
-   *  Data preparation (unchanged)
+   *  Data preparation
    * ------------------------------------------------- */
   const genderData = gender_counts.map((item) => ({
     label: item.Gender === 'M' ? 'Male' : 'Female',
@@ -62,6 +68,54 @@ function App() {
       value: item.Screentime_mins,
     }));
 
+  // KPI metrics
+  const totalParticipants = gender_counts.reduce((acc, g) => acc + g.Count, 0);
+  const zonesCovered = zone_distribution.length;
+  const avgAttention = (
+    agegroup_stats
+      .filter((i) => i.Age_group !== '100+' && i.Age_group !== '51-100')
+      .reduce((acc, a) => acc + a.Attention_span_mins, 0) /
+    agegroup_stats.filter((i) => i.Age_group !== '100+' && i.Age_group !== '51-100').length
+  ).toFixed(1);
+  const avgScreentime = (
+    agegroup_stats
+      .filter((i) => i.Age_group !== '100+' && i.Age_group !== '51-100')
+      .reduce((acc, a) => acc + a.Screentime_mins, 0) /
+    agegroup_stats.filter((i) => i.Age_group !== '100+' && i.Age_group !== '51-100').length
+  ).toFixed(0);
+
+  // Gender reason stacked chart
+  const reasonKeys = [
+    'Family_Problems',
+    'Lack_of_Goal_Clarity',
+    'Lack_of_Sleep_Poor_Health',
+    'Multitasking',
+    'Relationship',
+    'Smartphones_Social_Media',
+    'Stress_Anxiety',
+  ] as const;
+
+  const reasonLabels = reasonKeys.map((k) =>
+    k
+      .replaceAll('_', ' ')
+      .replace('Smartphones Social Media', 'Smartphones / Social Media')
+      .replace('Lack of Sleep Poor Health', 'Sleep & Health')
+      .replace('Lack of Goal Clarity', 'Goal Clarity')
+      .replace('Stress Anxiety', 'Stress / Anxiety')
+  );
+
+  const genderReasonDatasets = gender_reason_counts.map((row) => ({
+    label: row.Gender === 'M' ? 'Male' : 'Female',
+    data: reasonKeys.map((k) => Number(row[k as keyof typeof row] || 0)),
+  }));
+
+  // Age-group reason grouped chart (exclude outliers)
+  const filteredAgeReasons = agegroup_reason_counts.filter((r) => r.Age_group !== '51-100' && r.Age_group !== '100+');
+  const ageReasonDatasets = filteredAgeReasons.map((row) => ({
+    label: row.Age_group,
+    data: reasonKeys.map((k) => Number(row[k as keyof typeof row] || 0)),
+  }));
+
   const infoCards = [
     {
       title: 'Primary Factor',
@@ -84,74 +138,25 @@ function App() {
    *  Render
    * ------------------------------------------------- */
   return (
-    <div class="min-h-screen bg-linear-to-br from-[#0B1F2A] via-[#0D2631] to-[#0B1F2A] text-white p-4 md:p-8">
-      <div class="max-w-7xl mx-auto space-y-8">
-        {/* ---------- Header ---------- */}
-        <header class="space-y-4">
-          <div class="flex items-center justify-between">
-            <div class="text-xs text-cyan-400 font-semibold tracking-widest">Aethermind</div>
-            <div class="flex gap-2">
-              <For each={Array(4)}>{() => <div class="w-2 h-2 rounded-full bg-cyan-400" />}</For>
-            </div>
-          </div>
-
-          <div class="relative">
-            <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
-              Understanding ADHD
-              <br />
-              and the Science
-              <br />
-              of Focus
-            </h1>
-
-            {/* decorative SVG – hidden on mobile */}
-            <div class="absolute top-0 right-0 hidden lg:block overflow-hidden max-w-48 max-h-48 opacity-20">
-              <svg viewBox="0 0 200 200" class="w-full h-full" xmlns="http://www.w3.org/2000/svg">
-                {[80, 60, 40].map((r) => (
-                  <circle
-                    cx="100"
-                    cy="100"
-                    r={r}
-                    fill="none"
-                    stroke="#00D9FF"
-                    stroke-width="0.5"
-                    opacity="0.3"
-                  />
-                ))}
-                <For each={Array(8)}>
-                  {(_, i) => {
-                    const a = (i() * Math.PI) / 4;
-                    return (
-                      <line
-                        x1="100"
-                        y1="100"
-                        x2={100 + 80 * Math.cos(a)}
-                        y2={100 + 80 * Math.sin(a)}
-                        stroke="#00D9FF"
-                        stroke-width="0.5"
-                        opacity="0.2"
-                      />
-                    );
-                  }}
-                </For>
-              </svg>
-            </div>
-          </div>
-
-          <p class="text-cyan-400 text-sm md:text-base max-w-3xl">
-            A platform-based awareness project by <span class="text-cyan-300 font-semibold">Aethermind</span> -
-            Exploring how genetics, brain, and tech ADHD influences our daily cognitive landscape, neuroscience for
-            practical usage.
-          </p>
-        </header>
+    <div class="min-h-screen text-white">
+      <NavBar />
+      <Hero />
+      <div class="max-w-7xl mx-auto px-4 md:px-8 space-y-8">
+        {/* ---------- KPI Cards ---------- */}
+        <section class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          <StatCard label="Participants" value={totalParticipants} />
+          <StatCard label="Zones Covered" value={zonesCovered} />
+          <StatCard label="Avg Attention (mins)" value={avgAttention} />
+          <StatCard label="Avg Daily Screen (mins)" value={avgScreentime} />
+        </section>
 
         {/* ---------- Section Title ---------- */}
-        <div class="border-t border-b border-cyan-900/30 py-4">
+        <div id="visualizations" class="border-t border-b border-cyan-900/30 py-4">
           <h2 class="text-2xl md:text-3xl font-bold text-cyan-400">Data Visualization Expansion</h2>
         </div>
 
         {/* ---------- Row 1: Gender + Description ---------- */}
-        <section class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <section class="grid grid-cols-1 md:grid-cols-2 gap-6 fade-in-up">
           <div class="w-full min-h-[280px] flex flex-col">
             <DoughnutChart
               title="Gender Distribution of Participants"
@@ -161,7 +166,7 @@ function App() {
             />
           </div>
 
-          <div class="bg-linear-to-br from-[#0D2631] to-[#0B1F2A] rounded-xl p-6 border border-cyan-900/30 flex flex-col justify-center space-y-3 text-sm text-cyan-300/80">
+          <div class="bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover flex flex-col justify-center space-y-3 text-sm text-cyan-300/80">
             <p>
               This gender ratio reveals natural distribution among participants, closely mirroring observed prevalence
               within ADHD population globally, where some studies suggest males may be diagnosed more frequently.
@@ -178,7 +183,7 @@ function App() {
         </section>
 
         {/* ---------- Row 2: Dhaka Zones ---------- */}
-        <section class="bg-linear-to-br from-[#0D2631] to-[#0B1F2A] rounded-xl p-6 border border-cyan-900/30">
+        <section class="bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover fade-in-up">
           <h3 class="text-xl font-semibold mb-6 text-cyan-400 flex items-center gap-2">
             <div class="w-1 h-6 bg-cyan-400 rounded-full" />
             Participant Distribution Across Dhaka Demographic Zones
@@ -194,7 +199,7 @@ function App() {
         </section>
 
         {/* ---------- Row 3: Root Causes ---------- */}
-        <section class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <section class="grid grid-cols-1 md:grid-cols-2 gap-6 fade-in-up">
           <div class="w-full min-h-[280px] flex flex-col">
             <DoughnutChart
               title="Root Causes of Attention Span Decline"
@@ -205,7 +210,7 @@ function App() {
             />
           </div>
 
-          <div class="bg-linear-to-br from-[#0D2631] to-[#0B1F2A] rounded-xl p-6 border border-cyan-900/30 flex flex-col justify-center space-y-3 text-sm text-cyan-300/80">
+          <div class="bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover flex flex-col justify-center space-y-3 text-sm text-cyan-300/80">
             <p>
               Social media platforms cause 28.4% of attention decline through algorithm-driven infinite scroll
               mechanisms. Neuroimaging reveals reduced gray matter in prefrontal cortex.
@@ -222,7 +227,7 @@ function App() {
         </section>
 
         {/* ---------- Row 4: Age Distribution ---------- */}
-        <section class="bg-linear-to-br from-[#0D2631] to-[#0B1F2A] rounded-xl p-6 border border-cyan-900/30">
+        <section class="bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover fade-in-up">
           <h3 class="text-xl font-semibold mb-6 text-cyan-400 flex items-center gap-2">
             <div class="w-1 h-6 bg-cyan-400 rounded-full" />
             Age Distribution of Study Participants
@@ -238,7 +243,7 @@ function App() {
         </section>
 
         {/* ---------- Row 5: Hierarchical Attribution ---------- */}
-        <section class="bg-linear-to-br from-[#0D2631] to-[#0B1F2A] rounded-xl p-6 border border-cyan-900/30">
+        <section class="bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover fade-in-up">
           <h3 class="text-xl font-semibold mb-6 text-cyan-400 flex items-center gap-2">
             <div class="w-1 h-6 bg-cyan-400 rounded-full" />
             Hierarchical Attribution of Low Attention Span Factors
@@ -252,11 +257,39 @@ function App() {
           </div>
         </section>
 
+        {/* ---------- Row 6: Gender vs Reasons (Stacked) ---------- */}
+        <section class="bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover fade-in-up">
+          <MultiBarChart
+            title="Factors by Gender (Stacked)"
+            labels={reasonLabels}
+            datasets={genderReasonDatasets}
+            horizontal={true}
+            stacked={true}
+            height="h-[360px]"
+            yAxisLabel="Count"
+            showLegend={true}
+          />
+        </section>
+
+        {/* ---------- Row 7: Reasons across Age Groups (Grouped) ---------- */}
+        <section class="bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover fade-in-up">
+          <MultiBarChart
+            title="Factors across Age Groups (Grouped)"
+            labels={reasonLabels}
+            datasets={ageReasonDatasets}
+            horizontal={false}
+            stacked={false}
+            height="h-[380px]"
+            yAxisLabel="Count"
+            showLegend={true}
+          />
+        </section>
+
         
 
-        {/* ---------- Row 7: Screen Time Categories ---------- */}
-        <section class="grid grid-cols-1 md:grid-cols-2 gap-6">
-          <div class="bg-linear-to-br from-[#0D2631] to-[#0B1F2A] rounded-xl p-6 border border-cyan-900/30">
+        {/* ---------- Row 8: Screen Time Categories ---------- */}
+        <section class="grid grid-cols-1 md:grid-cols-2 gap-6 fade-in-up">
+          <div class="bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover">
             <h3 class="text-xl font-semibold mb-6 text-cyan-400 flex items-center gap-2">
               <div class="w-1 h-6 bg-cyan-400 rounded-full" />
               Attention Span Distribution Across Screen Time Categories
@@ -269,7 +302,7 @@ function App() {
             </p>
           </div>
 
-          <div class="bg-linear-to-br from-[#0D2631] to-[#0B1F2A] rounded-xl p-6 border border-cyan-900/30 flex flex-col justify-center space-y-4 text-sm text-cyan-300/80">
+          <div class="bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover flex flex-col justify-center space-y-4 text-sm text-cyan-300/80">
             <p class="font-semibold text-cyan-400 text-base">Key Findings:</p>
             <p>
               Studies indicate prolonged screen exposure (especially blue light between 450-480nm wavelength) disrupts
@@ -286,8 +319,8 @@ function App() {
           </div>
         </section>
 
-        {/* ---------- Row 8: Screen Time Correlation ---------- */}
-        <section class="bg-linear-to-br from-[#0D2631] to-[#0B1F2A] rounded-xl p-6 border border-cyan-900/30">
+        {/* ---------- Row 9: Screen Time Correlation ---------- */}
+        <section class="bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover fade-in-up">
           <h3 class="text-xl font-semibold mb-6 text-cyan-400 flex items-center gap-2">
             <div class="w-1 h-6 bg-cyan-400 rounded-full" />
             Screen Time and Attention Span Correlation
