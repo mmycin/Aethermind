@@ -1,4 +1,3 @@
-import { For } from 'solid-js';
 import { agegroup_stats } from '../data/analytics/agegroup_stats';
 import { gender_counts } from '../data/analytics/gender_counts';
 import { reason_stats } from '../data/analytics/reason_stats';
@@ -7,7 +6,6 @@ import { gender_reason_counts } from '../data/analytics/gender_reason_counts';
 import { agegroup_reason_counts } from '../data/analytics/agegroup_reason_counts';
 import { InfoCardGrid } from './components/cards/InfoCard';
 import { StatCard } from './components/cards/StatCard';
-import NavBar from './components/layout/NavBar';
 import Hero from './components/hero/Hero';
 import { BarChart } from './components/charts/Barchart';
 import { DoughnutChart } from './components/charts/DoughChart';
