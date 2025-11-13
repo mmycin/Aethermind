@@ -30,7 +30,7 @@ function AnimatedBrain() {
           [280, 160],
           [240, 110],
           [200, 100],
-        ].map(([x, y], i) => (
+        ].map(([x, y], _) => (
           <circle cx={x} cy={y} r="5" fill="#22D3EE" class="neuron-pulse" />
         ))}
         {/* Connectors */}

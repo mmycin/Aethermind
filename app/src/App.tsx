@@ -246,7 +246,7 @@ function App() {
             <div class="w-1 h-6 bg-cyan-400 rounded-full" />
             Hierarchical Attribution of Low Attention Span Factors
           </h3>
-          <div class="w-full min-h-[320px]">
+          <div class="w-full min-h-80">
             <BarChart title="" data={hierarchicalData} horizontal={true} height="h-full" />
           </div>
 

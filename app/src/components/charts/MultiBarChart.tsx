@@ -194,7 +194,7 @@ export const MultiBarChart = (props: MultiBarChartProps) => {
 
   return (
     <div
-      class="bg-gradient-to-br from-[#0B1F2A] to-[#0D2631] 
+      class="bg-linear-to-br from-[#0B1F2A] to-[#0D2631] 
               rounded-xl p-6 border border-cyan-800/40 
               shadow-[0_10px_25px_rgba(0,217,255,0.05)] 
               hover:shadow-[0_15px_35px_rgba(0,217,255,0.12)] 

@@ -39,7 +39,7 @@ export const StatCard = (props: StatCardProps) => {
           <div class="mt-1 text-sm text-cyan-300/80">{props.label}</div>
         </div>
       </div>
-      <div class="absolute inset-x-0 bottom-0 h-0.5 bg-gradient-to-r from-transparent via-cyan-500/40 to-transparent" />
+      <div class="absolute inset-x-0 bottom-0 h-0.5 bg-linear-to-r from-transparent via-cyan-500/40 to-transparent" />
     </div>
   );
 };
