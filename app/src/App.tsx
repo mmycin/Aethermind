@@ -4,6 +4,7 @@ import { reason_stats } from '../data/analytics/reason_stats';
 import { zone_distribution } from '../data/analytics/zone_distribution';
 import { gender_reason_counts } from '../data/analytics/gender_reason_counts';
 import { agegroup_reason_counts } from '../data/analytics/agegroup_reason_counts';
+import { zone_reason_counts } from '../data/analytics/zone_reason_counts';
 import { InfoCardGrid } from './components/cards/InfoCard';
 import { StatCard } from './components/cards/StatCard';
 import Hero from './components/hero/Hero';
@@ -11,6 +12,8 @@ import { BarChart } from './components/charts/Barchart';
 import { DoughnutChart } from './components/charts/DoughChart';
 import { LineChart } from './components/charts/LineChart';
 import { MultiBarChart } from './components/charts/MultiBarChart';
+import { DataTable } from './components/DataTable';
+import type { Column } from './types/table';
 
 function App() {
   /* -------------------------------------------------
@@ -130,6 +133,18 @@ function App() {
       content:
         'Inhibitory control and sustained attention directly affect behavioral regulation and goal-oriented performance.',
     },
+  ];
+
+  // Zone reasons table columns
+  const zoneReasonColumns: Column[] = [
+    { key: 'Zone_of_Residence', label: 'Zone of Residence', align: 'left' },
+    { key: 'Family_Problems', label: 'Family Problems', align: 'center' },
+    { key: 'Lack_of_Goal_Clarity', label: 'Lack of Goal Clarity', align: 'center' },
+    { key: 'Lack_of_Sleep_Poor_Health', label: 'Lack of Sleep & Poor Health', align: 'center' },
+    { key: 'Multitasking', label: 'Multitasking', align: 'center' },
+    { key: 'Relationship', label: 'Relationship', align: 'center' },
+    { key: 'Smartphones_Social_Media', label: 'Smartphones & Social Media', align: 'center' },
+    { key: 'Stress_Anxiety', label: 'Stress & Anxiety', align: 'center' },
   ];
 
   /* -------------------------------------------------
@@ -280,6 +295,23 @@ function App() {
             height="h-[380px]"
             yAxisLabel="Count"
             showLegend={true}
+          />
+        </section>
+
+        {/* ---------- Row 8a: Reasons by Zone (Table) ---------- */}
+        <section class="bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover fade-in-up">
+          <h3 class="text-xl font-semibold mb-6 text-cyan-400 flex items-center gap-2">
+            <div class="w-1 h-6 bg-cyan-400 rounded-full" />
+            Reasons of Low Attention Span by Zone
+          </h3>
+          <DataTable
+            title="Reason of Low Attention Span"
+            columns={zoneReasonColumns}
+            data={zone_reason_counts}
+            striped={true}
+            hover={true}
+            compact={true}
+            subtitle="Counts of contributing factors across Dhaka zones. Table is horizontally scrollable on smaller screens."
           />
         </section>
 
