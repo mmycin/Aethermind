@@ -139,7 +139,7 @@ function App() {
    * ------------------------------------------------- */
   return (
     <div class="min-h-screen text-white">
-      <NavBar />
+      {/* <NavBar /> */}
       <Hero />
       <div class="max-w-7xl mx-auto px-4 md:px-8 space-y-8">
         {/* ---------- KPI Cards ---------- */}
@@ -258,7 +258,7 @@ function App() {
         </section>
 
         {/* ---------- Row 6: Gender vs Reasons (Stacked) ---------- */}
-        <section class="bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover fade-in-up">
+        <section class="hidden md:block bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover fade-in-up">
           <MultiBarChart
             title="Factors by Gender (Stacked)"
             labels={reasonLabels}
@@ -272,7 +272,7 @@ function App() {
         </section>
 
         {/* ---------- Row 7: Reasons across Age Groups (Grouped) ---------- */}
-        <section class="bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover fade-in-up">
+        <section class="hidden md:block bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover fade-in-up">
           <MultiBarChart
             title="Factors across Age Groups (Grouped)"
             labels={reasonLabels}
@@ -284,8 +284,6 @@ function App() {
             showLegend={true}
           />
         </section>
-
-        
 
         {/* ---------- Row 8: Screen Time Categories ---------- */}
         <section class="grid grid-cols-1 md:grid-cols-2 gap-6 fade-in-up">

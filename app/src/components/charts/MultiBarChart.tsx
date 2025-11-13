@@ -193,15 +193,27 @@ export const MultiBarChart = (props: MultiBarChartProps) => {
   });
 
   return (
-    <div class="bg-linear-to-br from-[#0D2631] to-[#0B1F2A] rounded-xl p-6 border border-cyan-900/30 shadow-lg hover:shadow-cyan-900/20 transition-shadow duration-300">
-      <h3 class="text-xl font-semibold mb-6 text-cyan-400 flex items-center gap-3">
-        <div class="w-1 h-6 bg-cyan-400 rounded-full"></div>
+    <div
+      class="bg-gradient-to-br from-[#0B1F2A] to-[#0D2631] 
+              rounded-xl p-6 border border-cyan-800/40 
+              shadow-[0_10px_25px_rgba(0,217,255,0.05)] 
+              hover:shadow-[0_15px_35px_rgba(0,217,255,0.12)] 
+              transition-shadow duration-300"
+    >
+      {/* Title */}
+      <h3 class="text-xl font-bold mb-4 text-cyan-400 flex items-center gap-3">
+        <div class="w-1.5 h-6 bg-cyan-400 rounded-full"></div>
         {props.title}
       </h3>
-      <div class={props.height || 'h-80'}>
+
+      {/* Chart */}
+      <div class={`${props.height || 'h-80'} relative`}>
         <canvas ref={canvasRef}></canvas>
       </div>
-      {props.subtitle && <p class="text-sm text-cyan-300/70 mt-4 leading-relaxed">{props.subtitle}</p>}
+
+      {/* Subtitle */}
+      {props.subtitle && <p class="text-sm text-cyan-300/80 mt-4 leading-relaxed">{props.subtitle}</p>}
     </div>
   );
+
 };
