@@ -172,13 +172,13 @@ function App() {
         </div>
 
         {/* ---------- Row 1: Gender + Description ---------- */}
-        <section class="grid grid-cols-1 md:grid-cols-2 gap-6 fade-in-up">
-          <div class="w-full min-h-[280px] flex flex-col">
+        <section class="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6 fade-in-up">
+          <div class="w-full min-h-[220px] md:min-h-[280px] flex flex-col">
             <DoughnutChart
               title="Gender Distribution of Participants"
               data={genderData}
               showPercentage={true}
-              height="flex-1"
+              height="h-48 sm:h-56 md:h-64"
             />
           </div>
 
@@ -205,7 +205,7 @@ function App() {
             Participant Distribution Across Dhaka Demographic Zones
           </h3>
           <div class="w-full min-h-[280px]">
-            <BarChart title="" data={topZones} height="h-full" />
+            <BarChart title="" data={topZones} height="h-[360px]" />
           </div>
           <p class="text-sm text-cyan-300/80 mt-4">
             Geographical coverage ensures 38% of urban and suburban units are represented. Data collection from varied
@@ -221,7 +221,13 @@ function App() {
             Age Distribution of Study Participants
           </h3>
           <div class="w-full min-h-[280px]">
-            <BarChart title="" data={ageDistData} height="h-full" yAxisLabel="Attention Span (minutes)" maxValue={30} />
+            <BarChart
+              title=""
+              data={ageDistData}
+              height="h-[360px]"
+              yAxisLabel="Attention Span (minutes)"
+              maxValue={30}
+            />
           </div>
           <p class="text-sm text-cyan-300/80 mt-4">
             This analysis explores developmental influences of neuroplasticity across ages, providing insights into how
@@ -244,7 +250,7 @@ function App() {
               data={rootCausesData}
               cutout={'65'}
               legendPosition="right"
-              height="flex-1"
+              height="h-[360px]"
             />
           </div>
 
@@ -264,8 +270,6 @@ function App() {
           </div>
         </section>
 
-        
-
         {/* ---------- Row 5: Hierarchical Attribution ---------- */}
         <section class="bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover fade-in-up">
           <h3 class="text-xl font-semibold mb-6 text-cyan-400 flex items-center gap-2">
@@ -273,7 +277,7 @@ function App() {
             Hierarchical Attribution of Low Attention Span Factors
           </h3>
           <div class="w-full min-h-80">
-            <BarChart title="" data={hierarchicalData} horizontal={true} height="h-full" />
+            <BarChart title="" data={hierarchicalData} horizontal={true} height="h-[360px]" />
           </div>
 
           <div class="mt-6">
@@ -306,7 +310,7 @@ function App() {
             height="h-[380px]"
             yAxisLabel="Count"
             showLegend={true}
-         />
+          />
         </section>
 
         {/* ---------- Row 8a: Reasons by Zone (Chart) ---------- */}
@@ -350,7 +354,7 @@ function App() {
               Attention Span Distribution Across Screen Time Categories
             </h3>
             <div class="w-full min-h-[280px]">
-              <BarChart title="" data={screenCategories} height="h-full" xAxisLabel='Hours' yAxisLabel='Age Group'/>
+              <BarChart title="" data={screenCategories} height="h-full" xAxisLabel="Hours" yAxisLabel="Age Group" />
             </div>
             <p class="text-sm text-cyan-300/80 mt-4">
               Heavy screen use (6+ hours) correlates with 18% lower attention metrics. Optimal range: 2-4 hours daily.
@@ -405,7 +409,11 @@ function App() {
             Dhaka metropolitan zones • N=897 participants
           </p>
           <p class="text-cyan-400/40 text-xs">
-            Methodological framework: Cross-sectional observational study with validated psychometric instruments
+            Created by{' '}
+            <a target="_blank" href="https://github.com/mmycin" class="text-cyan-400 font-semibold">
+              Tahcin Ul Karim (Mycin)
+            </a>{' '}
+            • Data collected across Dhaka
           </p>
         </footer>
       </div>

@@ -35,7 +35,7 @@ export const MultiBarChart = (props: MultiBarChartProps) => {
     if (!ctx) return;
 
     // Generate default colors (violet/cyan/indigo palette)
-    const defaultColors = ['#8B5CF6', '#22D3EE', '#60A5FA', '#A78BFA', '#06B6D4', '#3B82F6'];
+    const defaultColors = ['#053E47', '#22D3EE', '#60A5FA', '#A78BFA', '#06B6D4', '#3B82F6'];
 
     // ✅ FIXED: Correct typing for barThickness ("flex" | number | undefined)
     const chartDatasets = props.datasets.map((dataset, index) => ({
@@ -147,7 +147,7 @@ export const MultiBarChart = (props: MultiBarChartProps) => {
             labels: {
               color: '#00D9FF',
               font: {
-                size: 12,
+                size: 11,
                 family: 'Inter, system-ui, sans-serif',
                 weight: 500,
               },
@@ -201,18 +201,18 @@ export const MultiBarChart = (props: MultiBarChartProps) => {
               transition-shadow duration-300"
     >
       {/* Title */}
-      <h3 class="text-xl font-bold mb-4 text-cyan-400 flex items-center gap-3">
+      <h3 class="text-lg md:text-xl font-bold mb-3 md:mb-4 text-cyan-400 flex items-center gap-3">
         <div class="w-1.5 h-6 bg-cyan-400 rounded-full"></div>
         {props.title}
       </h3>
 
       {/* Chart */}
-      <div class={`${props.height || 'h-80'} relative`}>
+      <div class={`${props.height || 'h-56 sm:h-64 md:h-72 lg:h-80'} relative`}>
         <canvas ref={canvasRef}></canvas>
       </div>
 
       {/* Subtitle */}
-      {props.subtitle && <p class="text-sm text-cyan-300/80 mt-4 leading-relaxed">{props.subtitle}</p>}
+      {props.subtitle && <p class="text-xs md:text-sm text-cyan-300/80 mt-3 md:mt-4 leading-relaxed">{props.subtitle}</p>}
     </div>
   );
 
