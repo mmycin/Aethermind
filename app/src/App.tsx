@@ -14,6 +14,7 @@ import { LineChart } from './components/charts/LineChart';
 import { MultiBarChart } from './components/charts/MultiBarChart';
 import { DataTable } from './components/DataTable';
 import type { Column } from './types/table';
+import { HeatmapChart } from './components/charts/HeatmapChart';
 
 function App() {
   /* -------------------------------------------------
@@ -146,6 +147,19 @@ function App() {
     { key: 'Smartphones_Social_Media', label: 'Smartphones & Social Media', align: 'center' },
     { key: 'Stress_Anxiety', label: 'Stress & Anxiety', align: 'center' },
   ];
+
+  // Heatmap data for reasons by zone
+  const zoneLabels = zone_reason_counts.map((z) => z.Zone_of_Residence);
+  const maxReasonCount = Math.max(
+    ...zone_reason_counts.map((row) => Math.max(...reasonKeys.map((k) => Number(row[k as keyof typeof row] || 0))))
+  );
+  const heatmapData = zone_reason_counts.flatMap((row) =>
+    reasonKeys.map((k, idx) => ({
+      x: reasonLabels[idx],
+      y: row.Zone_of_Residence,
+      value: Number(row[k as keyof typeof row] || 0),
+    }))
+  );
 
   /* -------------------------------------------------
    *  Render
@@ -295,11 +309,27 @@ function App() {
             height="h-[380px]"
             yAxisLabel="Count"
             showLegend={true}
+         />
+        </section>
+
+        {/* ---------- Row 8a: Reasons by Zone (Chart) ---------- */}
+        <section class="bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover fade-in-up">
+          <HeatmapChart
+            title="Reasons of Low Attention Span by Zone"
+            data={heatmapData}
+            xLabels={reasonLabels}
+            yLabels={zoneLabels}
+            minValue={0}
+            maxValue={maxReasonCount}
+            colorScheme="cyan"
+            showValues={true}
+            compact={true}
+            subtitle="Intensity map of contributing factors per zone."
           />
         </section>
 
         {/* ---------- Row 8a: Reasons by Zone (Table) ---------- */}
-        <section class="bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover fade-in-up">
+        {/* <section class="bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover fade-in-up">
           <h3 class="text-xl font-semibold mb-6 text-cyan-400 flex items-center gap-2">
             <div class="w-1 h-6 bg-cyan-400 rounded-full" />
             Reasons of Low Attention Span by Zone
@@ -313,7 +343,7 @@ function App() {
             compact={true}
             subtitle="Counts of contributing factors across Dhaka zones. Table is horizontally scrollable on smaller screens."
           />
-        </section>
+        </section> */}
 
         {/* ---------- Row 8: Screen Time Categories ---------- */}
         <section class="grid grid-cols-1 md:grid-cols-2 gap-6 fade-in-up">
