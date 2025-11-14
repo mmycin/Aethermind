@@ -173,9 +173,10 @@ export const MultiBarChart = (props: MultiBarChartProps) => {
             callbacks: {
               label: (context) => {
                 // ✅ FIXED: Prevent “value is possibly null”
-                const value = typeof context.parsed.y === 'number' ? context.parsed.y : (context.parsed.x ?? 0);
+                const value = props.horizontal ? context.parsed.x : context.parsed.y;
+
                 const suffix = props.tooltipSuffix || '';
-                return ` ${context.dataset.label}: ${value.toFixed(2)}${suffix}`;
+                return ` ${context.dataset.label}: ${value?.toFixed(2)}${suffix}`;
               },
             },
           },

@@ -140,7 +140,8 @@ export const BarChart = (props: BarChartProps) => {
             displayColors: false,
             callbacks: {
               label: (context) => {
-                const value = context.parsed.y || context.parsed.x;
+                const value = props.horizontal ? context.parsed.x : context.parsed.y;
+
                 const suffix = props.tooltipSuffix || '';
                 return ` ${context.dataset.label}: ${value?.toFixed(2)}${suffix}`;
               },
@@ -162,15 +163,15 @@ export const BarChart = (props: BarChartProps) => {
   });
 
   return (
-    <div class="bg-linear-to-br from-[#0D2631] to-[#0B1F2A] rounded-xl p-6 border border-cyan-900/30 shadow-lg hover:shadow-cyan-900/20 transition-shadow duration-300">
-      <h3 class="text-xl font-semibold mb-6 text-cyan-400 flex items-center gap-3">
+    <div class="bg-linear-to-br from-[#0D2631] to-[#0B1F2A] rounded-xl p-4 md:p-6 border border-cyan-900/30 shadow-lg hover:shadow-cyan-900/20 transition-shadow duration-300">
+      <h3 class="text-lg md:text-xl font-semibold mb-4 md:mb-6 text-cyan-400 flex items-center gap-3">
         <div class="w-1 h-6 bg-cyan-400 rounded-full"></div>
         {props.title}
       </h3>
-      <div class={props.height || 'h-80'}>
+      <div class={`${props.height || 'h-56 sm:h-64 md:h-72 lg:h-80'}`}>
         <canvas ref={canvasRef}></canvas>
       </div>
-      {props.subtitle && <p class="text-sm text-cyan-300/70 mt-4 leading-relaxed">{props.subtitle}</p>}
+      {props.subtitle && <p class="text-xs md:text-sm text-cyan-300/70 mt-3 md:mt-4 leading-relaxed">{props.subtitle}</p>}
     </div>
   );
 };
