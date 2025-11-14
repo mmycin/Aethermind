@@ -54,12 +54,13 @@ function App() {
   }));
 
 
-  const screenCategories = [
-    { label: '0-2 hrs', value: 45 },
-    { label: '2-4 hrs', value: 78 },
-    { label: '4-6 hrs', value: 65 },
-    { label: '6+ hrs', value: 38 },
-  ];
+const screenCategories = [
+  { label: '0–2 hrs', value: 230 },
+  { label: '2–4 hrs', value: 412 },
+  { label: '4–6 hrs', value: 212 },
+  { label: '6+ hrs', value: 45 },
+];
+
 
   const correlationData = agegroup_stats
     .filter((i) => i.Age_group !== '100+' && i.Age_group !== '51-100')
@@ -354,7 +355,7 @@ function App() {
               Attention Span Distribution Across Screen Time Categories
             </h3>
             <div class="w-full min-h-[280px]">
-              <BarChart title="" data={screenCategories} height="h-full" xAxisLabel="Hours" yAxisLabel="Age Group" />
+              <DoughnutChart  data={screenCategories} title="Screen Time Categories" />
             </div>
             <p class="text-sm text-cyan-300/80 mt-4">
               Heavy screen use (6+ hours) correlates with 18% lower attention metrics. Optimal range: 2-4 hours daily.
