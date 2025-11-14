@@ -358,6 +358,8 @@ function App() {
               title=""
               data={correlationData}
               height="h-full"
+              minValue={170}
+              maxValue={220}
               yAxisLabel="Screen Time (minutes)"
               tension={0.4}
             />
