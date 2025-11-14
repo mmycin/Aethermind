@@ -12,8 +12,6 @@ import { BarChart } from './components/charts/Barchart';
 import { DoughnutChart } from './components/charts/DoughChart';
 import { LineChart } from './components/charts/LineChart';
 import { MultiBarChart } from './components/charts/MultiBarChart';
-import { DataTable } from './components/DataTable';
-import type { Column } from './types/table';
 import { HeatmapChart } from './components/charts/HeatmapChart';
 
 function App() {
@@ -137,16 +135,6 @@ function App() {
   ];
 
   // Zone reasons table columns
-  const zoneReasonColumns: Column[] = [
-    { key: 'Zone_of_Residence', label: 'Zone of Residence', align: 'left' },
-    { key: 'Family_Problems', label: 'Family Problems', align: 'center' },
-    { key: 'Lack_of_Goal_Clarity', label: 'Lack of Goal Clarity', align: 'center' },
-    { key: 'Lack_of_Sleep_Poor_Health', label: 'Lack of Sleep & Poor Health', align: 'center' },
-    { key: 'Multitasking', label: 'Multitasking', align: 'center' },
-    { key: 'Relationship', label: 'Relationship', align: 'center' },
-    { key: 'Smartphones_Social_Media', label: 'Smartphones & Social Media', align: 'center' },
-    { key: 'Stress_Anxiety', label: 'Stress & Anxiety', align: 'center' },
-  ];
 
   // Heatmap data for reasons by zone
   const zoneLabels = zone_reason_counts.map((z) => z.Zone_of_Residence);
@@ -177,9 +165,10 @@ function App() {
           <StatCard label="Avg Daily Screen (mins)" value={avgScreentime} />
         </section>
 
-        {/* ---------- Section Title ---------- */}
-        <div id="visualizations" class="border-t border-b border-cyan-900/30 py-4">
-          <h2 class="text-2xl md:text-3xl font-bold text-cyan-400">Data Visualization Expansion</h2>
+        {/* ---------- Section Title: Data Exploration ---------- */}
+        <div id="data-exploration" class="border-t border-b border-cyan-900/30 py-4">
+          <h2 class="text-2xl md:text-3xl font-bold text-cyan-400">Data Exploration</h2>
+          <p class="text-cyan-300/70 text-sm mt-1">Age groups, gender distribution, and zone coverage</p>
         </div>
 
         {/* ---------- Row 1: Gender + Description ---------- */}
@@ -225,7 +214,29 @@ function App() {
           </p>
         </section>
 
-        {/* ---------- Row 3: Root Causes ---------- */}
+        {/* ---------- Row 3: Age Distribution (Exploration) ---------- */}
+        <section class="bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover fade-in-up">
+          <h3 class="text-xl font-semibold mb-6 text-cyan-400 flex items-center gap-2">
+            <div class="w-1 h-6 bg-cyan-400 rounded-full" />
+            Age Distribution of Study Participants
+          </h3>
+          <div class="w-full min-h-[280px]">
+            <BarChart title="" data={ageDistData} height="h-full" yAxisLabel="Attention Span (minutes)" maxValue={30} />
+          </div>
+          <p class="text-sm text-cyan-300/80 mt-4">
+            This analysis explores developmental influences of neuroplasticity across ages, providing insights into how
+            attentional symptoms and patterns affect adolescent through mid-life populations with implications for
+            targeted interventions.
+          </p>
+        </section>
+
+        {/* ---------- Section Title: Data Analytics ---------- */}
+        <div id="data-analytics" class="border-t border-b border-cyan-900/30 py-4">
+          <h2 class="text-2xl md:text-3xl font-bold text-cyan-400">Data Analytics</h2>
+          <p class="text-cyan-300/70 text-sm mt-1">Analytical breakdown of contributing factors and relationships</p>
+        </div>
+
+        {/* ---------- Row A1: Root Causes ---------- */}
         <section class="grid grid-cols-1 md:grid-cols-2 gap-6 fade-in-up">
           <div class="w-full min-h-[280px] flex flex-col">
             <DoughnutChart
@@ -253,21 +264,7 @@ function App() {
           </div>
         </section>
 
-        {/* ---------- Row 4: Age Distribution ---------- */}
-        <section class="bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover fade-in-up">
-          <h3 class="text-xl font-semibold mb-6 text-cyan-400 flex items-center gap-2">
-            <div class="w-1 h-6 bg-cyan-400 rounded-full" />
-            Age Distribution of Study Participants
-          </h3>
-          <div class="w-full min-h-[280px]">
-            <BarChart title="" data={ageDistData} height="h-full" yAxisLabel="Attention Span (minutes)" maxValue={30} />
-          </div>
-          <p class="text-sm text-cyan-300/80 mt-4">
-            This analysis explores developmental influences of neuroplasticity across ages, providing insights into how
-            attentional symptoms and patterns affect adolescent through mid-life populations with implications for
-            targeted interventions.
-          </p>
-        </section>
+        
 
         {/* ---------- Row 5: Hierarchical Attribution ---------- */}
         <section class="bg-panel rounded-xl p-6 border border-cyan-900/30 card-hover fade-in-up">
